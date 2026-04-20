@@ -1,1 +1,3 @@
-# baba-is-you-toki-pona
+# Baba is You, translated to Toki Pona
+## English
+In the 
