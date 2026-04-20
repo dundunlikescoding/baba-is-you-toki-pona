@@ -1,0 +1,2195 @@
+[general]
+name=toki pona
+customfont=0
+[texts]
+main_continue=o awen e musi
+settings=o tawa lipu ante
+main_custom=o open e lipu musi pali
+main_editor=o pali e musi
+credits=seme li pali e musi ni
+main_exit=o weka e musi ni
+main_version=musi ni nanpa
+settings_colon=o ante e ni:
+
+ingame_victory=pona!
+ingame_clear=lipu alasa li pona!
+ingame_complete=lipu alasa li pini!
+ingame_infiniteloop=ni li tawa sike lon tenpo ale
+ingame_toocomplex=ni li ike mute!
+
+resume=o awen e musi
+restart=o open sin
+return=o tawa tan
+
+pause_returnmap=o tawa lipu alasa
+pause_returnmain=o tawa lipu open
+pause_returneditor=o tawa ilo ante
+pause_returnplaylevels=o tawa lipu pi lipu musi
+pause_reportlevel=o toki e ni: lipu musi li ike
+
+settings_music=wawa pi kalama musi li ni:
+settings_sound=wawa mu li ni:
+settings_repeat=tawa li sike kepeken tenpo ni:
+settings_repeat_m=tawa li open kepeken tenpo ni:
+controls=nasin tawa
+settings_language=ante toki
+lang_setup=sina wile e toki seme?
+settings_fullscreen=o kepeken sitelen suli
+settings_grid=o kepeken leko
+settings_wobble=sitelen o tawa ala
+settings_particles=o jo ala e ko
+settings_shake=lipu o tawa ala
+settings_palette=o kepeken kule wawa
+settings_blinking=o jo ala e kule pi ante suli
+settings_restart=o open sin la o toki ala
+settings_zoom=musi ni li suli ni:
+zoom1=o ante ala
+zoom2=o sama
+zoom3=o kama suli
+please_restart=ni li wile e ni: o open sin e musi ni.
+
+lang_restart=sina wile ala wile e ni? sina luka e nena "lon" la, musi ni li wile open sin.
+
+controls_setup=o tawa sama ni:
+controls_noconnectedgamepad=ni ken ala alasa e ilo tawa.
+controls_gamepadname=nimi pi ilo tawa li ni:
+controls_unknowngamepad=ilo tawa li nasa tawa ni
+controls_detectgamepad=o alasa e ilo tawa
+controls_gamepadsetup=o pali e ilo tawa
+controls_defaultgamepad=o pali e ilo tawa tawa ni: ni li pana lon open
+controls_keysetup=o pali e supa nena
+controls_defaultkey=o pali e supa nena tawa ni: ni li pana lon open
+controls_disablegamepad_off=o tawa ala tan ilo tawa
+controls_disablegamepad_on=o tawa tan ilo tawa
+controls_disablestick=o tawa ala tan palisa
+move=tawa
+move2=tawa nanpa tu
+idle=o awen
+undo=o kama tawa tan
+controls_restart=o open sin
+confirm=o pona
+pause=o awen e musi
+right=teje
+up=sewi
+left=soto
+down=anpa
+controls_pressany=o luka e nena...
+
+restart_confirm=sina wile ala wile e ni: o open sin e lipu musi ni?
+restart_tip=sina ken weka e ni
+no=lon ala
+yes=lon
+cancel=o weka
+undefined=kon ni li ala
+none=ala
+restart_confirm_m=o open sin anu seme?
+restart_tip_m_1=sina ken weka e ni
+restart_tip_m_2=o toki lon lipu ante
+
+enterlevel_multiple=sina wile open e lipu musi seme?
+enterlevel_multiple_m=sina wile open e lipu musi seme?
+
+slot=poki nanpa
+slots_select=sina wile e poki seme?
+slots_erase=o weka e poki
+erase_select=sina wile weka e poki seme?
+erase_confirm=sina wile ala wile weka e poki ni?
+erase_tip=(ijo insa pi poki ni li kama ala!)
+erase_confirm_mobile=sina wile ala wile weka e poki ni?
+erase_tip_mobile=(ijo insa pi poki ni li kama ala!)
+intro_confirm=sina wile ala wile lukin e lipu open?
+
+main_start=o open e musi ni
+slot_current=tenpo ni la poki ni li ni:
+slot_change=o ante e poki
+world_unknown=poki lipu pi nimi ala
+
+mobile_tuto1a=luka o tawa la o tawa.
+mobile_tuto1b=o luka kepeken tenpo suli la o awen.
+mobile_tuto1c=o luka kepeken luka tu la o tawa tan.
+
+mobile_tuto2a=luka o tawa la lipu musi o tawa.
+mobile_tuto2b=selector and select a level to play.
+mobile_tuto2c=o luka e lipu musi kepeken tenpo suli la o open e lipu musi.
+
+ending=sina musi e musi ni la o pona tawa sina!
+
+rules=lawa
+level=lipu musi nanpa
+rules_colon=lawa li ni:
+level_colon=lipu musi li ni:
+
+customlevels_pack=sina wile open e poki seme pi lipu musi? 
+customlevels_single=sina wile open e lipu musi seme?
+customlevels_play_singular=o open e lipu musi
+customlevels_play_pack=o open e poki pi lipu musi
+customlevels_play_get=o pana e lipu musi sin tawa sina
+customlevels_play_getlist=lipu musi lon tenpo pini
+customlevels_play_changename=o ante e nimi poki
+customlevels_play_eraseslot=o weka e poki ni
+customlevels_play_eraseslot_tip=(o luka e nena ni la o weka e poki ni!)
+customlevels_pack_emptysave=poki ni li jo e ala
+customlevels_delete=o weka
+customlevels_forget=o weka e poki ni
+customlevels_deleteconfirm_single=sina wile ala wile weka e lipu musi ni?
+customlevels_deleteconfirm_pack=sina wile ala wile weka e poki ni pi lipu musi?
+customlevels_get=mi ken alasa e lipu musi ni!
+customlevels_get_save=o awen e lipu musi ni
+customlevels_get_nosave=o musi, o awen ala
+customlevels_get_cancel=o weka
+customlevels_get_fail=mi ken ala awen e lipu musi ni
+customlevels_get_fail_reason=tan pi pakala ni li ni:
+customlevels_get_saved=mi ken awen e lipu musi ni!
+customlevels_get_play=o open e lipu musi ni
+customlevels_get_levellist=o lukin e lipu musi
+customlevels_get_wait=o kama jo...
+customlevels_getlist=tenpo pini la o lukin e lipu musi ni:
+customlevels_getlist2=(o luka e ni la o kama jo, o kama jo lon awen)
+customlevels_getlist_download=sina jo e lipu musi ni:
+customlevels_getlist_upload=sina pana e lipu musi ni:
+
+playlevels_get_featured=lipu musi pona
+playlevels_get_featured_colon=lipu musi ni li pona:
+playlevels_get_new=lipu musi sin
+playlevels_get_code=o kepeken nanpa pi lipu musi
+playlevels_featured_fail=mi ken ala kama jo e poki pi lipu musi
+playlevels_featured_fail_reason=tan pi pakala ni li ni:
+playlevels_featured_wait=o kama jo e poki pi lipu musi...
+
+reportlevel_confirm=sina wile ala wile toki e ni: lipu musi li ike?
+reportlevel_success=sina toki e ni!
+reportlevel_fail=sina ken ala toki e ni.
+reportlevel_ok=o tawa tan
+
+credits_designetc=sitelen en toki ilo en ante
+credits_audio=kalama musi en mu
+credits_audioconsult=jan kalama
+credits_porting=kama
+credits_testers=jan alasa
+credits_translation=jan pi ante toki
+credits_help=pona
+credits_thanks=pona tawa
+credits_gamejams=pali musi ale 
+credits_indies=kulupu lili ante mute
+credits_dogs=soweli pona
+credits_dogs2=en soweli ante
+credits_specialthanks=pona wawa tawa
+credits_anni1=wawa en toki en pona
+credits_anni2=lon lipu pali
+credits_lukas1=pona mute mute
+credits_lukas2=lon tenpo suli
+credits_mokesmoe1=pona en pona sitelen en
+credits_mokesmoe2=pona mute
+credits_alan1=pona en pona sitelen en 
+credits_alan2=kulupu pali lili
+credits_music=mi pali e kalama musi kepeken
+credits_musicby=li tan
+credits_mmfby=li tan
+credits_sound=mi pali e kalama e mu kepeken
+credits_audacity=kulupu Atasisi
+credits_freesound=kalama tan lipu kalama pi mani ala:
+credits_extensions=namako pi ilo MomiSuTu li ni:
+credits_madeusing=musi ni li pali kepeken
+credits_words=isipin nimi
+pluralby=tan
+singularby=tan
+by=tan
+
+credits_thankyou=o pona tawa sina!
+
+intro_mp2=ni li kama e ni tan $4,1kulupu musi Enpitu
+intro_mmf2=mi pali e ni kepeken $4,1ilo Mosimisija Susijon Tu$0,3 pi kulupu Kisin
+intro_madeby=$4,1jan Asi Tekali $0,3li pali e musi ni
+intro_charity=jan pali li kama jo e $4,1mani luka luka la mani wan $0,3li tawa $2,4kulupu pona 
+intro_hold=o awen e nena la open li weka
+
+image_desc_1=lipu musi ni pi sin mute mute.
+image_desc_2=mi alasa e sitelen sitelen.
+image_desc_3=mi alasa e kule.
+image_desc_4=lipu alasa ni pi sin mute mute.
+image_desc_5=lipu alasa li ken e ni
+image_desc_6=lipu alasa pi nasa ala nanpa wan.
+image_desc_7=mi alasa e ni: ijo li kama e mi kepeken seme.
+image_desc_8=ilo sitelen telo - nimi suli
+image_desc_9=ilo sitelen telo - mun
+image_desc_10=ilo sitelen telo - soweli Kiki
+image_desc_11=lawa mi li wawa la mi sitelen e soweli Papa pi lukin tu wan.
+image_desc_12=The pushing system was very hard to construct.
+image_desc_13=sitelen, kepeken toki Sumi!
+image_desc_14=kon pi lipu alasa.
+image_desc_15=mi alasa e ijo lon.
+image_desc_16=lipu pi lipu musi 'sama'.
+
+editor_start_title=o kama tawa ilo ante pi lipu musi!
+editor_start_level=o ante e lipu musi...
+editor_start_world=o ante e poki pi lipu musi...
+editor_start_settings=o pona tawa sina o ante
+
+editor_settings_controls=o ante e tawa pi ilo ante
+editor_settings_advanced=o kepeken nimi wawa
+editor_settings_mod=o kepeken wawa suli
+editor_settings_tips=kepeken ilo tawa la o pona ala
+editor_settings_tips_n=kepeken nena la o pona ala
+editor_settings_slide=o kepeken ala kon lon ilo ante
+editor_settings_help=pona en tawa suli
+editor_settings_music=o kepeken ala kalama musi pi ilo ante
+editor_settings_hotkeys=o lukin e tawa suli pi ilo ante
+editor_settings_defaultpad=o pali e ilo tawa tawa ni: ni li pana lon open
+
+editor_tutorial1=lipu pona nanpa W: o lukin e ale
+editor_tutorial2=lipu pona nanpa T: ante pi lipu musi
+editor_tutorial3=lipu pona nanpa TW: ilo pi ilo ante
+editor_tutorial4=lipu pona nanpa TT: kule ijo
+editor_tutorial5=lipu pona nanpa L: lipu ante pi lipu musi
+editor_tutorial6=lipu pona nanpa LW: o pana e lipu musi
+editor_tutorial7=lipu pona nanpa LT: o kama jo e lipu musi
+editor_tutorial8=lipu pona nanpa LTW: wawa
+editor_tutorial9=lipu pona nanpa LTT: pona pi lipu musi
+editor_tutorial10=lipu pona nanpa LL: o moli e monsuta
+
+editor_newworld=o pali e poki pi lipu musi sin
+editor_editworld=sina wile pali e poki seme pi lipu musi?
+editor_editworld_none=mi ken ala alasa e poki pi lipu musi
+editor_setfirstlevel=o pana e lipu musi nanpa wan
+editor_setdefaultlevel=o pana e lipu musi nasin
+editor_entername=o pana e nimi
+
+editor_levellist_return=o tawa lipu open pi ilo ante
+editor_levellist_returnworld=o tawa ni: lipu li jo e poki pi lipu musi
+editor_levellist_new=o pali e lipu musi sin
+editor_levellist_edit=sina wile pali e lipu musi seme?
+editor_levellist_page=lipu nanpa
+editor_levellist_setstart=o pana e lipu musi nanpa wan
+editor_levellist_setauthor=o ante e jan pali
+editor_levellist_setname=o ante e nimi
+editor_levellist_setmap=o pana e lipu alasa
+editor_levellist_levels=lipu musi pali
+editor_levellist_sort=o pana lon nasin nimi
+editor_levellist_sorttypes=o pana lon nasin kule
+editor_levellist_search=o alasa
+editor_levellist_removesearch=o weka e alasa
+
+editor_mainmenu=lipu open
+editor_editormenu=lipu open pi ilo ante
+editor_objectlist=ijo
+editor_settingsmenu=lipu ante
+editor_changelayer=o ante e ma
+editor_l1=M1
+editor_l2=M2
+editor_l3=M3
+editor_savelevel=o awen e ni
+editor_addlevel=o pali e lipu musi
+editor_setcursor=o pana e luka
+editor_addpath=o pana e nasin
+editor_setpath=o pali e nasin
+editor_undo=o kama tawa tan
+editor_swap=o esun
+editor_testlevel=o alasa musi e lipu musi
+editor_test=o alasa musi
+
+editor_brush_normal=ijo
+editor_brush_level=lipu musi
+editor_brush_path=nasin
+editor_brush_special=namako
+
+editor_objectlist_add=ijo sin
+editor_objectlist_remove=o weka e ijo
+editor_objectlist_editobject=o ante e ijo
+editor_objectlist_pairs_yes=o pana e ale
+editor_objectlist_pairs_no=o kulupu e ijo tu
+
+tooltip_currobjlist_add=o pana e ijo sin tawa kule
+tooltip_currobjlist_remove=o weka e ijo lon kule
+tooltip_currobjlist_editobject=o ante e kule ijo
+tooltip_currobjlist_dopairs=o lukin e ijo ale e nimi ijo anu nimi ijo ala
+tooltip_currobjlist_tool_normal=ilo sitelen
+tooltip_currobjlist_tool_line=ilo linja
+tooltip_currobjlist_tool_rectangle=ilo selo
+tooltip_currobjlist_tool_fillrectangle=ilo sijelo
+tooltip_currobjlist_tool_fill=ilo telo
+tooltip_currobjlist_tool_erase=ilo weka
+tooltip_currobjlist_tool_select=ilo jo
+tooltip_currobjlist_search_edit=o alasa e ijo kepeken nimi
+tooltip_currobjlist_search_remove=o weka e alasa
+tooltip_currobjlist_search_tags=o alasa e ijo kepeken kule ijo
+tooltip_currobjlist_return=o tawa lipu open pi ilo ante
+tooltip_currobjlist_swap=o lukin e ijo ale anu nimi ijo
+
+tooltip_currobjlist_dir_right=ijo pali li lukin tawa teje
+tooltip_currobjlist_dir_up=ijo pali li lukin tawa sewi
+tooltip_currobjlist_dir_left=ijo pali li lukin tawa soto
+tooltip_currobjlist_dir_down=ijo pali li lukin tawa anpa
+
+tooltip_quickmenu_editorsettingsmenu=o ante e kule pi lipu musi (nimi anu kule anu ante)
+tooltip_quickmenu_editormenu=o pana e lipu musi, o tawa lipu pi lipu musi, o weka e lipu musi, o ijo ante
+
+tooltip_editor_menu=o pana e lipu musi, o tawa lipu pi lipu musi, o weka e lipu musi, o ijo ante
+tooltip_editor_settingsmenu=o ante e kule pi lipu musi (nimi anu kule anu ante)
+tooltip_editor_objects=o lanpan anu ante anu pali anu weka e ijo lon kule ijo
+tooltip_editor_save=o awen e lipu musi ni
+tooltip_editor_undo=lipu musi la o tawa tan
+tooltip_editor_swap=o lukin e ijo ni anu nimi ijo ni
+tooltip_editor_layer=o ante e ni: sina lukin e ma
+tooltip_editor_test=o alasa musi e lipu musi ni lon tenpo ni
+
+tooltip_editor_menu_test=o alasa musi e lipu musi ni lon tenpo ni
+tooltip_editor_menu_upload=ona li ken pona la, o pana e lipu musi ni tawa ma pi ilo sona!
+tooltip_editor_menu_theme=o kepeken kule lon lipu musi ni la o weka e ni
+tooltip_editor_menu_return=Return to the list of levels. Any unsaved changes will be lost o tawa lipu pi lipu musi. sina [CHANGE]
+tooltip_editor_menu_returnfull=Return to the level editor main menu. Any unsaved changes will be lost
+tooltip_editor_menu_delete=Delete the level entirely. Can't be reverted!
+tooltip_editor_menu_copy=Make an identical copy of this level (the copy will have a number next to its name)
+
+buttons_editor_move=Move
+buttons_editor_rotate=Rotate
+buttons_editor_place=Place
+buttons_editor_copy=Copy
+buttons_editor_drag=Drag
+buttons_editor_undo=Undo
+buttons_editor_scrollleft_hotbar=< Quickbar
+buttons_editor_scrollright_hotbar=Quickbar >
+buttons_editor_scrollleft_tool=< Tool
+buttons_editor_scrollright_tool=Tool >
+buttons_editor_currobjlist=Object palette
+buttons_editor_quickmenu=Quick menu
+buttons_editor_swap=Swap
+buttons_editor_scrollleft_layer=< Layer
+buttons_editor_scrollright_layer=Layer >
+buttons_editor_moveall=Move all
+buttons_editor_altpress=More actions
+buttons_editor_cut=Cut
+buttons_editor_lock=Lock slot
+buttons_editor_showdir=Show dirs
+buttons_editor_autopick=Pick by string
+buttons_editor_pickempty=Pick empty
+buttons_editor_selection_rotate_right=Rotate >
+buttons_editor_selection_rotate_left=< Rotate
+buttons_editor_selection_mirror=Mirror
+buttons_editor_selection_flip=Flip
+buttons_editor_selection_place=Place
+buttons_editor_selection_cancel=Cancel
+buttons_editor_selection_ignore=Ignore empty
+buttons_editor_emptytile=Clear
+buttons_editor_empty_hotbar=Empty slot
+buttons_editor_test=Test level
+buttons_editor_save=Save level
+
+editor_toolindicator_eraser=Q - Pick empty
+editor_saved=Level saved!
+
+buttons_currobjlist_move=Move
+buttons_currobjlist_select=Select
+buttons_currobjlist_swap=Swap
+buttons_currobjlist_drag=Drag
+buttons_currobjlist_tooltip=Tooltip
+buttons_currobjlist_scrollleft=< Toolbar
+buttons_currobjlist_scrollright=Toolbar >
+buttons_currobjlist_closemenu=Close menu
+buttons_currobjlist_tags=Tags
+buttons_currobjlist_remove=Remove
+buttons_currobjlist_edit=Edit
+buttons_currobjlist_addnew=Add
+buttons_currobjlist_search=Search
+buttons_currobjlist_autoadd=Add by string
+buttons_currobjlist_removesearch=Stop search
+
+editor_objectlist_object=Normal objects
+editor_objectlist_text=Text objects
+editor_objectlist_verb=Verbs
+editor_objectlist_quality=Qualities
+editor_objectlist_conditional=Conditionals
+editor_objectlist_special=Special text
+editor_objectlist_objlist=Object list
+editor_objectlist_result=Search for
+editor_objectlist_tag=Tag:
+editor_objectlist_tags=Tags:
+editor_objectlist_tags_select=Tags
+editor_objectlist_tags_cleartags=Clear tags
+editor_objectlist_search_edit=Edit search
+editor_objectlist_search_remove=Remove search
+editor_objectlist_search_none=No search or tags applied
+editor_objectlist_page=lipu nanpa
+editor_objectlist_nothing=Pick nothing
+
+editor_level_levelsetup=Level setup
+editor_level_leveltarget=Which level this leads to:
+editor_level_iconcolour=Icon colour:
+editor_level_setcolour=Set colour
+editor_level_setclearcolour=Set clear colour
+editor_level_initialstate=Initial state:
+editor_level_initialstate_hidden=Hidden
+editor_level_initialstate_normal=Normal
+editor_level_initialstate_opened=Opened
+editor_level_levelsymbol=Symbol style:
+editor_level_levelsymbol_none=None
+editor_level_levelsymbol_numbers=Numbers
+editor_level_levelsymbol_text=Text
+editor_level_levelsymbol_dots=Dots
+editor_level_levelsymbol_symbol=Symbol:
+editor_level_remove=Remove
+
+editor_path_settings=Path settings
+editor_path_pathstate=Select initial path state
+editor_path_pathstate_hidden=Hidden
+editor_path_pathstate_visible=Visible
+editor_path_object=Path object:
+editor_path_locked=Is this path locked?
+editor_path_locked_levels=Level clears
+editor_path_locked_maps=Map clears
+editor_path_locked_orbs=Orbs
+editor_path_locked_loclevels=Local clears
+
+editor_menu_close=Close menu
+editor_menu_return=Return to level list
+editor_menu_returnfull=Return to main editor menu
+editor_menu_test=Test level
+editor_menu_themes=Themes...
+editor_menu_delete=Delete level
+editor_menu_upload=Upload level
+editor_menu_copy=Copy level
+
+editor_unsaved_confirm=There may be unsaved changes. Are you sure?
+
+editor_delete_confirm=Really remove this level?
+
+editor_copy_confirm=Are you sure you wish to copy this level?
+editor_copy_confirm_name=The copy will be called
+editor_copy_done=Level copied successfully!
+
+editor_theme_edit=Select the theme you want to edit:
+editor_theme_use=Select the theme you want to use:
+editor_theme_warning=Note! Changing the theme will erase all current objects
+editor_theme_return=Return to level setup
+editor_theme_load=Load a theme
+editor_theme_load_confirm=Are you sure you want to load this theme?
+editor_theme_load_confirm_hint=Note! This will erase everything in the level!
+editor_theme_load_confirm_newlevel=Do you want to load a theme for this level?
+editor_theme_themeload=Select the theme you want to load:
+editor_theme_save=Save current theme
+editor_theme_save_confirm=That theme already exists. Overwrite?
+editor_theme_delete=Delete a theme
+editor_theme_delete_confirm=Are you sure you want to delete this theme?
+editor_theme_themedelete=Select the theme you want to delete:
+editor_theme_none=There are no themes available
+editor_theme_done=Start editing
+
+editor_levelmenu_name=nimi:
+editor_levelmenu_rename=o ante e nimi pi lipu musi
+editor_levelmenu_music=kalama musi:
+editor_levelmenu_changemusic=o ante e kalama musi
+editor_levelmenu_author=jan pali:
+editor_levelmenu_changeauthor=o ante e jan pali
+editor_levelmenu_subtitle=nimi lili:
+editor_levelmenu_subtitle_none=ala
+editor_levelmenu_changesubtitle=o ante e nimi lili
+editor_levelmenu_particles=namako:
+editor_levelmenu_changeparticles=o ante e namako
+editor_levelmenu_palette=kule:
+editor_levelmenu_changepalette=o ante e kule
+editor_levelmenu_levelsize=suli:
+editor_levelmenu_levelwidth=sinpin li
+editor_levelmenu_levelheight=supa li
+editor_levelmenu_changelevelsize=o ante e suli
+editor_levelmenu_disableparticles=o kepeken ala kon
+editor_levelmenu_disableruleeffect=lawa o kepeken ala namako
+editor_levelmenu_disableshake=lipu o tawa ala
+editor_levelmenu_autodelay=sike "Level Is Auto" kepeken tenpo ni:
+editor_levelmenu_mapsetup=lipu ante pi lipu alasa
+
+editor_music_select=Select the music you want to use:
+editor_music_none=No music found
+
+editor_particles_select=Select the background effect you want to use:
+editor_particles_none=No background effects found
+
+editor_palette_select=Select the palette you want to use:
+editor_palette_none=No palettes found
+
+editor_levelsize_width=Adjust level width:
+editor_levelsize_height=Adjust level height:
+editor_levelsize_quick=Predefined options:
+editor_levelsize_apply=Apply new size
+
+editor_upload_confirm=Are you sure you want to upload this level?
+editor_upload_confirm_note=(You will need to solve the level to upload it)
+editor_upload_name=$2,4Level name:
+editor_upload_author=$2,4Author:
+editor_upload_subtitle=$2,4Subtitle:
+editor_upload_uploading=Uploading...
+editor_upload_done=Upload successful! Your level code is:
+editor_upload_failed=Upload failed. Reason:
+editor_upload_copy=Copy code to clipboard
+editor_upload_copyhint=You can find old codes in the "Play levels" -menu
+author=Author
+noauthor=Unknown author
+
+editor_map_leveltype=Select level type:
+editor_map_level=Level
+editor_map_map=Map
+editor_map_clearlimit=Levels needed to clear:
+editor_map_clearlimit_hint=(Zero -> Unclearable)
+editor_map_mapicon=Map icon setup
+editor_map_returnto=Level to return to after beating:
+editor_map_parentlevel=Parent level
+editor_map_winlevel=Victory
+editor_map_selectlevel=Select a level
+
+editor_objectsetup_palette=Change palette...
+editor_objectsetup_select=Select the object you wish to edit
+
+editor_object_sprite=Change sprite...
+editor_object_name=Change name...
+editor_object_name_invalid=That name couldn't be used.
+editor_object_type=Change type...
+editor_object_colour=Object colour options:
+editor_object_colour_onlybase=Change colour
+editor_object_colour_base=Base colour
+editor_object_colour_active=Active colour
+editor_object_colour_select=What colour should this object use?
+editor_object_animation=Animation style:
+editor_object_animation_none=None
+editor_object_animation_dirs=Directions
+editor_object_animation_anim=Animated
+editor_object_animation_animdirs=Anim. directions
+editor_object_animation_character=Character
+editor_object_animation_tiled=Tiled
+editor_object_text_type=Text type:
+editor_object_text_manualtype=Manual text type selection:
+editor_object_zlevel=Z level:
+editor_object_reset=Reset all values
+
+editor_spritelist_title=Select the sprite you want to use:
+editor_spritelist_none=No sprites found!
+editor_spritelist_page=lipu nanpa
+
+editor_tool_normal=Freeform
+editor_tool_line=Line
+editor_tool_rectangle=Rectangle
+editor_tool_fillrectangle=Filled rect.
+editor_tool_fill=Flood fill
+
+mapid_extra=namako nanpa
+
+tag_text=Word
+tag_text_verb=Word - Verb
+tag_text_quality=Word - Quality
+tag_text_condition=Word - Condition
+tag_text_prefix=Word - Prefix
+tag_text_special=Word - Special
+tag_text_letter=Letter
+
+particles_none=None
+particles_bubbles=Bubbles
+particles_soot=Soot
+particles_sparks=Sparks
+particles_dust=Dust
+particles_snow=Snow
+particles_clouds=Clouds
+particles_smoke=Smoke
+particles_pollen=Pollen
+particles_stars=Stars
+particles_glitter=Glitter
+particles_leaves=Leaves
+particles_rain=Rain
+
+music_baba=Baba
+music_burn=Autumn
+music_cave=Cavern
+music_crystal=Crystal
+music_editor=Tinker
+music_ending=Ending
+music_factory=Factory
+music_float=Underwater
+music_forest=Forest
+music_garden=Garden
+music_map=Map
+music_menu=Theme
+music_mountain=Snowy
+music_noise=Empty
+music_ruin=Ruins
+music_stars=Space
+music_editorsong=Editor
+music_nothing=Nothing
+music_rain=Rain
+music_scary=Spooky
+music_space=Jamming
+
+palettes_abstract=Green
+palettes_autumn=Autumn
+palettes_contrast=High-contrast
+palettes_crystal=Crystal
+palettes_default=Default
+palettes_factory=Factory
+palettes_garden=Garden
+palettes_marshmallow=Fluffy
+palettes_mono=Greyscale
+palettes_mountain=Cold
+palettes_ocean=Underwater
+palettes_ruins=Ruins
+palettes_space=Space
+palettes_swamp=Swamp
+palettes_test=Ominous
+palettes_variant=Vibrant
+palettes_volcano=Fiery
+
+themes_underwater=Underwater
+themes_cavern=Cavern
+themes_autumn=Autumn
+themes_factory=Factory
+themes_ruins=Ruins
+themes_forest=Forest
+themes_space=Space
+themes_garden=Garden
+themes_mountain=Mountain
+themes_default=Default
+themes_rainy=Rainy day
+themes_spooky=Spooky
+themes_crystal=Crystal cave
+themes_town=Town
+themes_abstract=Abstract
+
+namegiving_newworldname=Enter the name of the levelpack:
+namegiving_changelevelname=Enter the new name of the level:
+namegiving_newlevelname=Enter the name of the level:
+namegiving_changeunitname=Enter the new name of the object:
+namegiving_changeunittype=Enter the new type of the object:
+namegiving_newthemename=Enter the name of the theme:
+namegiving_objectsearchstring=Search the object list for:
+namegiving_levelauthor=Enter the name of the level author:
+namegiving_worldauthor=Enter the name of the levelpack author:
+namegiving_changeworldname=Enter the new name of the levelpack:
+namegiving_downloadcode=Enter the level code (XXXX-YYYY):
+namegiving_levelsearchstring=Search the level list for:
+namegiving_spritesearchstring=Search the sprite list for:
+namegiving_slotname=Enter the name of this save slot:
+namegiving_subtitle=Enter the subtitle you want to use:
+namegiving_editor_autopick=Enter the words to pick:
+namegiving_currobjlist_autoadd=Enter the word to add:
+
+hotkeys_editor_category_editor=Editor shortcuts
+hotkeys_editor_category_currobjlist=Object p. shortcuts
+hotkeys_editor_category_levellist=Level list shortcuts
+
+hotkeys_editor_keyboard=For keyboard
+hotkeys_editor_gamepad=For gamepad
+
+hotkeys_editor_rotate=Arrow keys: rotate objects
+hotkeys_editor_copy=Right click/Shift + Left click: copy object
+hotkeys_editor_cut=Middle click: cut object
+hotkeys_editor_quickbar_scroll=Mousewheel: scroll quickbar
+hotkeys_editor_quickbar_lock=Right click on quickbar: lock/unlock slot
+hotkeys_editor_quickbar_reset=Middle click on quickbar: clear quickbar slot
+hotkeys_editor_swap=Control + mousewheel: swap between objects and words
+hotkeys_editor_changetool=Shift + mousewheel: switch tools
+hotkeys_editor_changelayer=Control + 1/2/3: change layer
+hotkeys_editor_pickis=I: pick Is
+hotkeys_editor_pickand=U: pick And
+hotkeys_editor_picknot=Y: pick Not
+hotkeys_editor_pickempty=Q: pick empty space
+hotkeys_editor_massdir=F: show directions of all objects
+hotkeys_editor_moveall=WASD: move all objects
+hotkeys_editor_rotateselection=Right/Left arrow: rotate selection
+hotkeys_editor_flipselection=Up/Down arrow: mirror/flip selection
+hotkeys_editor_altselection=Shift + Left click with selection: ignore empty tiles
+hotkeys_editor_opencurrobjlist=Tab: open object palette
+hotkeys_editor_openeditormenu=Escape: open level menu
+hotkeys_editor_openeditorsettingsmenu=F1: open level settings
+hotkeys_editor_testlevel=F3: test level
+hotkeys_editor_undo=Control + Z: undo
+hotkeys_editor_save=Control + S: save
+hotkeys_editor_deleteall=Control + Delete: empty level
+hotkeys_editor_addobject=R: add new object to palette
+hotkeys_editor_return=Backspace: return to level list
+hotkeys_editor_drag=Control + Left mouse: drag object
+hotkeys_editor_editlevel=E when hovering over a level: start editing that level
+hotkeys_editor_quickaddlevel=Shift when placing a level: don't open level setup
+hotkeys_editor_restart=Control + F2: restart the game
+hotkeys_editor_windowsize=Left shift + 1/2/3: change window size (windowed only)
+hotkeys_editor_resetmapicon=Middle click in map icon menu: reset icon slot
+hotkeys_editor_cleartile=Control + Middle click: clear tile
+hotkeys_editor_autopick=F4: add words by string
+
+hotkeys_editor_gpad_rotate=@gamepad_editor_rotate: rotate objects
+hotkeys_editor_gpad_copy=@gamepad_editor_copy: copy object
+hotkeys_editor_gpad_cut=@gamepad_editor_altpress + @gamepad_editor_cut: cut object
+hotkeys_editor_gpad_swap=@gamepad_editor_altpress + @gamepad_editor_swap: swap between objects and words
+hotkeys_editor_gpad_drag=Hold @gamepad_editor_drag: drag object
+hotkeys_editor_gpad_emptytile=@gamepad_editor_altpress + @gamepad_editor_emptytile: clear tile (all layers)
+hotkeys_editor_gpad_changetool=@gamepad_editor_scrollleft_tool & @gamepad_editor_scrollright_tool: switch tools
+hotkeys_editor_gpad_changelayer=@gamepad_editor_scrollleft_layer & @gamepad_editor_scrollright_layer: change layer
+hotkeys_editor_gpad_quickbar_scroll=@gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar: scroll quickbar
+hotkeys_editor_gpad_quickbar_lock=@gamepad_editor_altpress + @gamepad_editor_lock: lock/unlock quickbar slot
+hotkeys_editor_gpad_quickbar_empty=@gamepad_editor_altpress + @gamepad_editor_empty_hotbar: empty quickbar slot
+hotkeys_editor_gpad_pickempty=@gamepad_editor_altpress + @gamepad_editor_pickempty: pick empty space
+hotkeys_editor_gpad_massdir=@gamepad_editor_altpress + @gamepad_editor_showdir: show directions of all objects
+hotkeys_editor_gpad_moveall=@gamepad_editor_moveall + @gamepad_editor_rotate: move all objects
+hotkeys_editor_gpad_rotateselection=@gamepad_editor_scrollleft_tool & @gamepad_editor_scrollright_tool: rotate selection
+hotkeys_editor_gpad_flipselection=@gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar: flip/mirror selection
+hotkeys_editor_gpad_altselection=@gamepad_editor_undo with selection: ignore empty tiles 
+hotkeys_editor_gpad_opencurrobjlist=@gamepad_editor_currobjlist: open object palette
+hotkeys_editor_gpad_openquickmenu=@gamepad_editor_quickmenu: open quick menu
+hotkeys_editor_gpad_undo=@gamepad_editor_undo: undo
+hotkeys_editor_gpad_autopick=@gamepad_editor_altpress + @gamepad_editor_autopick: add words by string
+hotkeys_editor_gpad_save=@gamepad_editor_altpress + @gamepad_editor_quickmenu: save level
+hotkeys_editor_gpad_test=@gamepad_editor_altpress + @gamepad_editor_currobjlist: test level
+hotkeys_editor_gpad_altmove=@gamepad_editor_altpress + @gamepad_editor_rotate: move cursor
+
+hotkeys_currobjlist_swap=Mousewheel: swap between objects and words
+hotkeys_currobjlist_drag=Control + Left mouse: drag object
+hotkeys_currobjlist_leave=Tab/Escape: leave menu
+hotkeys_currobjlist_edit=Right click: edit object metadata
+hotkeys_currobjlist_remove=Control/Shift + Right click: remove object
+hotkeys_currobjlist_search=Letter keys: start search
+hotkeys_currobjlist_autoadd=F4: add objects by string
+hotkeys_objlist_quickadd=Control + left click in Object List: add object and keep browsing
+
+hotkeys_currobjlist_gpad_swap=@gamepad_currobjlist_swap: swap between objects and words
+hotkeys_currobjlist_gpad_drag=@gamepad_currobjlist_drag: drag object
+hotkeys_currobjlist_gpad_leave=@gamepad_editor_currobjlist: leave menu
+hotkeys_currobjlist_gpad_edit=@gamepad_currobjlist_edit: edit object metadata
+hotkeys_currobjlist_gpad_remove=@gamepad_currobjlist_remove: remove object
+hotkeys_currobjlist_gpad_search=@gamepad_currobjlist_search: start search
+hotkeys_currobjlist_gpad_add=@gamepad_currobjlist_addnew: add new object
+hotkeys_currobjlist_gpad_autoadd=@gamepad_currobjlist_autoadd: add objects by string
+
+hotkeys_levellist_search=Letter keys: start search
+hotkeys_levellist_leave=Escape: leave menu
+hotkeys_levellist_delete=Right click: remove level
+
+hotkeys_levellist_gpad_leave=@gamepad_editor_quickmenu: leave menu
+hotkeys_levellist_gpad_delete=@gamepad_editor_undo: remove level
+
+hotkeys_objlist_gpad_quickadd=@gamepad_editor_undo in Object List: add object and keep browsing
+hotkeys_objlist_gpad_search=@gamepad_editor_drag in Object List: start search
+hotkeys_levellist_gpad_search=@gamepad_editor_drag: start search
+hotkeys_currobjlist_gpad_removesearch=@gamepad_editor_scrollright_tool in Object Palette: remove search
+hotkeys_currobjlist_gpad_removesearch_alt=@gamepad_editor_copy outside Object Palette: remove search
+
+hotkeys_levellist_gpad_addnew=@gamepad_editor_currobjlist: add new level
+hotkeys_levellist_gpad_removesearch=@gamepad_editor_copy: remove search
+hotkeys_editor_gpad_altsave=@gamepad_editor_altpress + @gamepad_currobjlist_altsave: save
+hotkeys_editor_gpad_settings=@gamepad_currobjlist_settings: open level settings
+hotkeys_editor_gpad_menu=@gamepad_currobjlist_menu: open editor menu
+hotkeys_currobjlist_gpad_tags=@gamepad_currobjlist_tags: open tag list
+hotkeys_objlist_gpad_tags=@gamepad_currobjlist_tags in Object List: open tag list
+hotkeys_editor_category_misc=Misc
+
+0level=soweli Papa li sina
+0level_subtitle=o kama e musi "soweli Papa li sina"
+100level=Love at first sight
+101level=The heist
+102level=Factory worker
+104level=Tectonic movements
+105level=Shuffle
+106level=Map
+106level_mapid=Map
+107level=Assembly team
+109level=Join the crew
+10level=Affection
+110level=Lava flood
+111level=Aiming high
+112level=Trio
+115level=Heavy words
+116level=What is baba?
+117level=Hostile environment
+118level=Floaty platforms
+119level=Automaton
+11level=Lonely flag
+120level=Connector
+122level=Tunnel
+124level=Relaxing spot
+125level=Heavy cloud
+127level=Secret garden
+128level=Reunion
+129level=Further fields
+130level=Overgrowth
+132level=One-way entrance
+134level=Dim signal
+135level=Endless corridor
+136level=Jelly throne
+137level=Not there
+138level=Even less there
+139level=Cranny
+13level=Babas are you
+140level=Heavy fortification
+141level=Scale
+142level=Out at sea
+143level=Apartment building
+145level=Trick door
+146level=Torn apart
+148level=Tour
+150level=Blockade
+151level=Concrete goals
+155level=Metacognition
+156level=Keke and the star
+15level=Novice locksmith
+160level=Catch
+163level=Automated doors
+164level=Multitool
+165level=Visiting Baba
+166level=Burglary
+167level=Alley
+168level=Ultimate maze
+169level=nanpa L. ma pi kasi mute
+169level_mapid=kasi mute
+16level=nanpa TT. ma kasi loje
+16level_mapid=loje
+171level=Bridge building
+172level=Bridge building?
+173level=...Bridges?
+174level=Dead end
+175level=Broken
+176level=Trapped
+177level=nanpa W. telo
+177level_mapid=telo
+178level=Broken expectations
+179level=nanpa LTT. lupa pi telo seli
+179level_mapid=seli
+17level=Unreachable shores
+180level=nanpa LT. ma kili
+180level_mapid=kili
+182level=nanpa LTW. lupa suli
+182level_mapid=lupa
+188level=Triplets
+189level=ni li seme?
+18level=Entropy
+191level=Moving floor
+192level=Glitch
+193level=Crumbling floor
+194level=Haunt
+195level=Solitude
+196level=Hazel den
+196level_subtitle=Made by Alan Hazelden
+197level=Error
+198level=The end
+198level_mapid=<empty>
+199level=Fragility
+19level=Looking for a heart
+1level=mi tawa seme?
+200level=???
+200level_mapid=???
+201level=Horror story
+203level=A way out?
+203level_mapid=Finale
+205level=Float
+206level=nanpa TW. ma pakala
+206level_mapid=pakala
+207level=nanpa T. ma lili pi jan wan
+207level_mapid=ma lili
+209level=Lock
+20level=Icy waters
+210level=Two doors
+211level=Submerged ruins
+212level=Turns
+215level=Evaporating river
+216level=Platformer
+217level=Sky hold
+218level=Warm river
+219level=Boiling river
+21level=Rocky prison
+220level=Crate square
+221level=Grand stream
+222level=Hidden relic
+223level=Buried treasure
+226level=The pit
+227level=Mean fence
+230level=Tag team
+231level=VIP area
+232level=nanpa LL. sewi
+232level_mapid=sewi
+233level=Tiny pasture
+234level=Victory spring
+235level=Rocky road
+236level=Changeless
+238level=Hop
+239level=Jump
+23level=But where's the key
+240level=Treasury
+241level=Siege
+242level=Sorting facility
+243level=Slideshow
+245level=Fragile existence
+246level=Toolshed
+247level=Turn the corner
+248level=Supermarket
+250level=Tense atmosphere
+251level=Exercise hall
+252level=BA
+253level=AB
+255level=Lunar gallery
+257level=Not quite
+25level=Floodgates
+260level=Passing through
+261level=Cleaning service
+262level=Collaborative effort
+263level=Crushers
+264level=Depths
+264level_mapid=Depths
+265level=Living lands
+266level=Pillarwork
+268level=Insulation
+269level=Fetching
+26level=Ghost guard
+270level=Backstage
+271level=Salvage
+272level=Parade
+274level=Priority lane
+275level=Security check
+276level=Train
+277level=The box
+279level=Queue
+280level=Wall
+281level=Meteor strike
+282level=ABC
+282level_mapid=ABC
+283level=Meta
+283level_mapid=Meta
+284level=Tangle
+285level=Canister
+286level=Getting together
+286level_mapid=Secret
+287level=Adventure
+288level=Hot potato
+289level=Acrobatics
+28level=Factory
+291level=Avalanche
+292level=Breaking and entering
+293level=Huh?
+293level_mapid=Secret
+294level=A prize well earned
+294level_mapid=Secret
+295level=Bramblevine
+297level=Mutual feelings
+298level=Delicate stars
+299level=Hidden path
+29level=Broken playground
+2level=ken ala luka kin
+300level=Cannon
+302level=Booby trap
+303level=Just no
+304level=Center
+304level_mapid=<empty>
+305level=Gallery
+305level_mapid=<empty>
+306level=Orb
+306level_mapid=Secret
+307level=Scenic pond
+308level=Deep pool
+309level=The return of Scenic pond
+30level=Crab storage
+310level=Poem
+313level=Stardrop
+314level=Sunken temple
+315level=Lovely house
+317level=Straw
+318level=Dungeon
+319level=Research facility
+31level=Elusive condition
+320level=Another way
+320level_mapid=Secret
+321level=Secure cottage
+322level=Majestic columns
+323level=Power generator
+324level=Existential crisis
+325level=Friendless
+326level=Orchestra pit
+327level=Whoa
+327level_mapid=Secret
+33level=Love is out there
+34level=Baba doesn't respond
+35level=Leaf chamber
+36level=Ghost friend
+37level=Tiny pond
+39level=Settlement
+3level=ken ala luka
+40level=Dangerous garden
+41level=Tiny isle
+46level=Vital ingredients
+47level=Peril at every turn
+48level=The floatiest platforms
+4level=Pillar yard
+50level=Nearly
+51level=Coronation
+52level=Tunnel vision
+54level=Skull house
+56level=Walls of gold
+57level=Patrol
+58level=A present for you
+59level=Condition
+5level=ken ala tawa ona
+60level=Lonely sight
+61level=Quarters
+62level=Telephone
+64level=Maritime adventures
+65level=Prison
+66level=Renovating
+67level=Lock the door
+68level=Wireless connection
+69level=Keep out!
+6level=ma kasi
+70level=Skeletal door
+71level=Perilous gang
+72level=Double moat
+75level=Fireplace
+77level=Literacy
+78level=?
+78level_mapid=?
+79level=Bottleneck
+7level=Catch the thief!
+80level=Please hold my key
+82level=Guardians
+84level=Whoops
+85level=Canyon
+86level=Lift
+87level=nanpa LW. tomo li tawa sewi
+87level_mapid=tomo
+89level=Ruined orchard
+8level=Locked in
+90level=nena pi telo seli
+91level=Jaywalkers united
+92level=Adventurers
+93level=Brick wall
+94level=Thicket
+95level=Mouse hole
+96level=Harmony
+97level=Baba fields
+98level=Victory in the open
+99level=Seeking acceptance
+9level=Empty
+n1level=Baba has Keke
+n1level_subtitle=Made by Nicklas Nygren
+n2level=Castle disaster
+n2level_subtitle=Made by Nicklas Nygren
+t1level=Across
+t1level_subtitle=Made by Corey Martin
+
+editorbeta_warning_1a=Important:
+editorbeta_warning_1b=This program is meant to allow testing the upcoming official level editor for people who can't otherwise access it. It will be supported only up until the official editor releases in early 2021; after that it won't be updated anymore, and will eventually be unable to upload levels to the official servers.
+editorbeta_warning_1c=Also note that the editor contains spoilers! It's recommended that you beat at least the 10 levels on the main worldmap of the original game if you wish to avoid major spoilers.
+editorbeta_warning_1d=Apologies for this somewhat clunky method of access, and enjoy toying around with the editor!
+
+newadv_42level_1a=Welcome!
+newadv_42level_1b=These adventures showcase entirely new
+newadv_42level_1c=words and surprises. Have fun!
+
+newadv_42level_2a=Note though that these levels may
+newadv_42level_2b=assume that you know how the game works,
+newadv_42level_2c=so be warned!
+
+newadv_31level_1a=Good to know:
+newadv_31level_1b=Move downwards to switch which
+newadv_31level_1c=character you're controlling!
+
+newadv_180level_1a=Thank you for playing and
+newadv_180level_1b=supporting the game! We hope
+newadv_180level_1c=you enjoyed the ride!
+
+levelpack_museum_intro1a=Welcome to the Museum!
+levelpack_museum_intro1b=This is a showcase of old
+levelpack_museum_intro1c=and/or unused content.
+
+levelpack_museum_intro2a=Signs like these will tell you
+levelpack_museum_intro2b=interesting details about the
+levelpack_museum_intro2c=levels and the game's design!
+
+levelpack_museum_intro3a=Please enjoy your stay!
+levelpack_museum_intro3b=There may be spoilers if you
+levelpack_museum_intro3c=haven't beaten the original game.
+
+museum_10level_1a=One of the very first levels.
+museum_10level_1b=I think I ultimately felt
+museum_10level_1c=that it was too chaotic.
+
+museum_12level_1a=This is from the jam version! Quite
+museum_12level_1b=chaotic and aimless, and I had to
+museum_12level_1c=alter it a bit due to how the logic has changed.
+
+museum_13level_1a=Another level that was in the jam version. The
+museum_13level_1b=concept is really funny to me, but I never quite
+museum_13level_1c=figured out a good puzzle to do with it.
+
+museum_13level_2a=In the original version 'Empty Is Win' was intended
+museum_13level_2b=as the solution, I think. It took some time to realize
+museum_13level_2c=the full implications of the word, haha.
+
+museum_14level_1a=Possibly the first level about More
+museum_14level_1b=that I felt was good enough to include. In the
+museum_14level_1c=end, it felt too aimless and was cut, however.
+
+museum_15level_1a=A very very early level. I think I used this at first
+museum_15level_1b=to introduce Shut & Open, but there ended up being too
+museum_15level_1c=many ways to solve it that didn't involve either.
+
+museum_16level_1a=This level would eventually become Unreachable Shores.
+museum_16level_1b=The basic idea is there, but at this point I was a bit too
+museum_16level_1c=eager to add stuff into a level without thinking it through.
+
+museum_16level_2a=In the game jam version, I arbitrarily chose 20x20 as the size
+museum_16level_2b=of the levels. As I started developing the game further, it
+museum_16level_2c=took a long time to move from square levels to rectangles.
+
+museum_20level_1a=This is one take on the design that eventually became
+museum_20level_1b=Icy Waters. The level is interestingly open-ended, but
+museum_20level_1c=I ultimately wanted a more compact tutorial for And.
+
+museum_x20level_1a=Considering how simple this level is and how
+museum_x20level_1b=early it appears, it sure did go through a lot
+museum_x20level_1c=of changes. And is an important lesson, though!
+
+museum_24level_1a=Early on there were way fewer ways to rein in All.
+museum_24level_1b=As you can see, I needed to add quite a few specific
+museum_24level_1c=restrictions to get this level to function even a bit.
+
+museum_25level_1a=This level would eventually become Siege, I think. The
+museum_25level_1b=end of this level is quite funny, but I should've had
+museum_25level_1c=more confidence and not added extra obstacles as obfuscation.
+
+museum_35level_1a=I tried to generally avoid creating levels purely about
+museum_35level_1b=pushing blocks. However, Pull often drew me in that direction.
+museum_35level_1c=Also, those hands used to be clouds, hence the name, haha.
+
+museum_39level_1a=I was extremely proud of this duo back when I first
+museum_39level_1b=made them. Returning to them ~3 years later, they don't
+museum_39level_1c=seem quite as exciting (and were actually a bit broken!)
+
+museum_46level_1a=These two were probably one of the very first cases of
+museum_46level_1b=level variants where the variant actually had a meaningful
+museum_46level_1c=idea behind it. Didn't quite work, but it was a start!
+
+museum_55level_1a=I tried to add a bit of extra to this tutorial for the 'X Is X'
+museum_55level_1b=mechanic. In the end I decided to go with a much more straight-
+museum_55level_1c=forward design, since X Is X turned out to be tougher to grasp.
+
+museum_61level_1a=A big problem early on was my tendency to tack elements to
+museum_61level_1b=a level without enough consideration about the core concept.
+museum_61level_1c=The result was often a very complicated but incoherent level.
+
+museum_62level_1a=This was intended to be the level to introduce Tele. It manages
+museum_62level_1b=to be quite chaotic despite the simple puzzle. I wonder why I
+museum_62level_1c=felt the need to try to prevent "Grass Is You" as a solution?
+
+museum_63level_1a=I was initially very satisfied with this level. However,
+museum_63level_1b=after letting it sit for a longer time, the solution
+museum_63level_1c=started to feel very... busywork-heavy? Trial-and-error?
+
+museum_82level_1a=Pay close attention! This isn't an actual unused level; I
+museum_82level_1b=added it to showcase a rather funky cornercase that will
+museum_82level_1c=be relevant in the level immediately after this.
+
+museum_97level_1a=Further Fields, which is generally considered one of the tougher
+museum_97level_1b=levels in the base game, started as a variant for Baba Fields.
+museum_97level_1c=The level was cut due to not offering much of anything new.
+
+museum_113level_1a=I was quite fond of these levels and kept them
+museum_113level_1b=in for a long time. However, ultimately I'm happier
+museum_113level_1c=about the more elegant take of the idea in The Pit.
+
+museum_126level_1a=So many rules! I always liked these,
+museum_126level_1b=but cut them due to the clutter. I hope Fall
+museum_126level_1c=letting you pass dangers made logical sense.
+
+museum_143level_1a=I think I made 2-3 levels with the same basic
+museum_143level_1b=idea; it took me a long time to notice how similar
+museum_143level_1c=the levels were. I like the apartments, though!
+
+museum_x148level_1a=This design felt very inelegant and busyworkish but at the
+museum_x148level_1b=same time I'd award it some style points. If you haven't seen
+museum_x148level_1c=Eat yet, just think that Lava is harmful to Key.
+
+museum_50level_1a=When making this, I started wondering: if you Tele
+museum_50level_1b=an object that's Swap, shouldn't the Tele endpoint
+museum_50level_1c=Swap with the teleported object?
+
+museum_50level_2a=I tested that and to be honest it felt logical in a
+museum_50level_2b=way at first! I'm pretty sure the testers pointed out
+museum_50level_2c=how terrible that'd be and I scrapped the idea.
+
+museum_50level_3a=This level showcases the addition of extra obstacles
+museum_50level_3b=out of fear of the solution seeming too obvious.
+museum_50level_3c=Generally that turned out to be pointless, even harmful.
+
+museum_yylevel_1a=Sometimes, when you return to a level you haven't
+museum_yylevel_1b=looked at in a long time, you can't for the
+museum_yylevel_1c=life of you recall what was the idea behind the level.
+
+museum_80level_1a=The little trick in this level is quite cute in my
+museum_80level_1b=opinion. It doesn't deal very much with the rule mani-
+museum_80level_1c=pulation, and thus felt a bit too generic to include.
+
+museum_87level_1a=At one point I was really excited about variant levels
+museum_87level_1b=and wondered if the very first level should have one;
+museum_87level_1c=it didn't feel very elegant, however.
+
+museum_41level_1a=The idea of a set of puzzles being iterations
+museum_41level_1b=on the same idea, but with small adjustments to
+museum_41level_1c=increase the difficulty is very intriguing to me.
+
+museum_42level_1a=I've seen some puzzle games do a great job
+museum_42level_1b=at making the puzzle design progression reflect
+museum_42level_1c=what people's minds go for at first and so on.
+
+museum_43level_1a=In the early stages of Baba Is You's development
+museum_43level_1b=I wanted to try a similar design. However,
+museum_43level_1c=my approach was flawed for a couple reasons.
+
+museum_44level_1a=In order to come up with novel variations on a puzzle one
+museum_44level_1b=needs to get outside input, both to get a fresh view
+museum_44level_1c=and to understand how people generally approach the puzzle.
+
+museum_45level_1a=I kind of understood that but tried to "force" an
+museum_45level_1b=interesting set of puzzles. The result was this House set.
+museum_45level_1c=And these have been extensively touched up for this release!
+
+museum_68level_1a=The basic idea shown here followed me throughout the game's
+museum_68level_1b=development. I tried to increase its complexity in various ways,
+museum_68level_1c=but ultimately the extra parts were just in the way.
+
+museum_d68level_1a=As I was looking through these ancient level ideas, I got
+museum_d68level_1b=multiple ideas for variants. So some of these variant levels
+museum_d68level_1c=are 'new' in the sense that they were created for the Museum.
+
+museum_x70level_1a=When coming up with names I tend to let my mind wander pretty
+museum_x70level_1b=freely. Sometimes the resulting name has honestly a bit too little
+museum_x70level_1c=to do with the level itself. I see very little "classic" here!!
+
+museum_73level_1a=I tried really hard to add an extra twist to the end of this
+museum_73level_1b=level and it never quite worked. In this form it could've
+museum_73level_1c=worked fine as an introduction to On, though, I'd say!
+
+museum_86level_1a=This level felt too trivial and was left out. I really
+museum_86level_1b=like the general idea behind the solution, though!
+museum_86level_1c=
+
+museum_86level_2a=I generally tried to avoid giving levels names that
+museum_86level_2b=directly relate to the intended approach. I guess giving
+museum_86level_2c=hints that way could've felt too direct? Or unsatisfying?
+
+museum_92level_1a=Shift turned out to be surprisingly powerful in its own ways; I kept
+museum_92level_1b=forgetting that I can't just place a barrier on its way without 
+museum_92level_1c=it getting Shifted away, too. This required a lot of revising.
+
+museum_96level_1a=Everything related to the original concept behind this level can
+museum_96level_1b=actually be seen in the inner room in the middle of the level.
+museum_96level_1c=Everything else is "extra" added for support. Uh. Hm. Maybe not the best.
+
+museum_102level_1a=This is a great example of a level where a cool mental image resulted
+museum_102level_1b=in a quite lackluster level. The "factory line" here would
+museum_102level_1c=perhaps have been better suited for an automaton than a puzzle.
+
+museum_x103level_1a=One more of these early levels that tried to arrive at a puzzle
+museum_x103level_1b=by just stacking elements. I think that especially my early
+museum_x103level_1c=Has-related levels tended to be like that!
+
+museum_112level_1a=As a final little showcase thing, here's a variation on the world
+museum_112level_1b=map that was used in showcase builds of the game, for example
+museum_112level_1c=at the GamesCom festival in Germany in 2018.
+
+museum_114level_1a=What you don't see here is a huge mess of usable blocks. I
+museum_114level_1b=cleaned the design up quite a bit to make it presentable; the
+museum_114level_1c=original was way overcomplicated and extremely clunky.
+
+museum_114level_2a=A lot of levels related to Level deal with its destructive
+museum_114level_2b=capabilities. As a result, this name could be used just fine
+museum_114level_2c=in the final game despite the design being way different!
+
+museum_134level_1a=I tried several times to make a version of Dim Signal
+museum_134level_1b=that'd add just one more extra twist to the end by limiting
+museum_134level_1c=your tools. No dice; here's one attempt.
+
+museum_x135level_1a=Yuck! The general concept of the level can be seen even in
+museum_x135level_1b=this initial version, but this implementation requires
+museum_x135level_1c=a *lot* of shuffling about. Not ideal. Sorry.
+
+museum_140level_1a=Not turned out to be very powerful despite being conceptually
+museum_140level_1b=very simple. The more versatile a word is, the harder it gets
+museum_140level_1c=to design puzzles around them without overly specific restrictions.
+
+museum_259level_1a=As can be guessed, Swap was one of the most complicated
+museum_259level_1b=words to design levels around. I added the second layer of
+museum_259level_1c=insulation after failing to implement the idea in just one.
+
+museum_259level_2a=However, this layout was aesthetically unpleasing and felt
+museum_259level_2b=clunky. Eventually I returned to the level concept and
+museum_259level_2c=(I think?) managed to set up the idea with just one layer.
+
+museum_276level_1a=I quite liked the solution to this upon returning to create the
+museum_276level_1b=Museum. The main point against it is the somewhat complex design
+museum_276level_1c=and readability problems the game can have when objects overlap.
+
+museum_290level_1a=When implementing this one I realized a bug with the 'Word'-word.
+museum_290level_1b=I didn't have time/motivation to fix it before release, and instead
+museum_290level_1c=just quietly left this level unfinished, waiting for a better future.
+
+museum_296level_1a=The structure of the final areas of the base game changed a lot as
+museum_296level_1b=they matured. This level was intended to be part of the final mind-
+museum_296level_1c=boggling meta puzzle, but felt a bit aimless and too chaotic.
+
+museum_300level_1a=Another level made for endgame meta content; I think I just
+museum_300level_1b=didn't quite have a spot for this. Several players have commented
+museum_300level_1c=that they enjoyed it, though, so I'm glad to present it now!
+
+museum_321level_1a=This level almost ended up in the released game. I was very
+museum_321level_1b=fond of it, but tester feedback made me realize that a very
+museum_321level_1c=crucial component of its solution was a bit too esoteric.
+
+museum_328level_1a=This level was in the game on release! I ultimately replaced it,
+museum_328level_1b=because the section it was in was supposed to feature 'Facing',
+museum_328level_1c=and this one doesn't. It's also fairly noisy and chaotic.
+
+museum_47ylevel_1a=Hold was a word I tested very early on. The idea
+museum_47ylevel_1b=behind it seemed interesting, but it turned out I
+museum_47ylevel_1c=couldn't think of many good uses for it and it was cut.
+
+museum_spoilerlevel_1a=Warning!
+museum_spoilerlevel_1b=The following levels will spoil some large game mechanics,
+museum_spoilerlevel_1c=so beating the base game's worldmap is recommended!
+
+tutorial_skip=Skip tutorial
+tutorial_continue=Continue
+tutorial_end=End tutorial
+
+tutorial_intro_1a=Welcome to the level editor!
+tutorial_intro_1b=The editor is quite complicated, so it may be good to check out these tutorials. If you'd rather skip them, select 'Skip tutorial'. You can check the tutorials out later in the 'Help & settings' menu found in the main editor menu. This intro tutorial will show you how to make a simple level, and the other tutorials will explain various features of the editor in more depth.
+tutorial_intro_1c=Note that the editor contains spoilers - certain spoilery words are disabled by default (you can enable them in the editor settings), but you might still encounter them while playing other people's levels. It's recommended that you beat at least the main world map of the original game if you don't want to get spoiled.
+
+tutorial_intro_2a=When you first open the editor, you'll see this main editor menu. From here you can go to edit your levels, download new ones, change editor-related settings, and so on. For now, we'll just select 'Edit levels' and go ahead.
+
+tutorial_intro_3a=This is the level screen. Here you can see all the levels you've made or downloaded. Select 'create a new level' to, well, create a new level.
+tutorial_intro_3a_n=This is the level screen. Here you can see all the levels you've made or downloaded. You can have up to 100 levels at a time. Select 'create new level' to, well, create a new level.
+
+tutorial_intro_4a=First you get to choose the level name. You can change that later, so no worries about that. After this, you can pick one of the premade themes if you want your level to have a specific look from the get-go! This is totally optional, though.
+
+tutorial_intro_5a=This is the main level editor view. There's quite a lot of stuff here, but don't worry, we'll consider just the basics for now.
+
+tutorial_intro_6a=First of all, select the 'Objects' option here to see the things you can put into your level.
+tutorial_intro_6a_gpad=First of all, press @gamepad_editor_currobjlist to see the things you can put into your level.
+
+tutorial_intro_7a=This is the Object Palette. Again, don't worry about the buttons. For now, let's just select Baba from the list.
+
+tutorial_intro_8a=Once you've selected an object, you can place it anywhere in your level. You can use the arrow keys to rotate the object. Hi Baba!
+tutorial_intro_8a_gpad=Once you've selected an object, you can place it anywhere in your level. Use @gamepad_editor_rotate to rotate the object. Hi Baba!
+
+tutorial_intro_9a=The current selection of objects is quite small. Let's add a new object to our palette - it can be done via that button over there!
+
+tutorial_intro_10a=This is the list of all objects available to you. You can search and add tags to find interesting things. For this tutorial, we'll look for the object 'Wall' and select it.
+
+tutorial_intro_11a=...And here we go, Wall (and its word) is now part of our palette! Let's select Wall from the palette and place some into our level.
+
+tutorial_intro_12a=If you accidentally place something where it shouldn't be, you have several options to choose from. You can undo the placement, or press Q to select 'Nothing' and place that over the wrong placement, or right-click on an empty space to select what's there (that is, 'Nothing' again), and replace the misplaced object.
+tutorial_intro_12a_gpad=If you accidentally place something where it shouldn't be, you have several options to choose from. You can either undo the placement by pressing @gamepad_editor_undo or press @gamepad_editor_altpress + @gamepad_editor_pickempty to select 'Nothing' and place that over the wrong placement, or press @gamepad_editor_copy on an empty space to select what's there (that is, 'Nothing' again), and replace the misplaced object.
+
+tutorial_intro_13a=That's how the basic level editing works! Pick objects from the palette, add more from the object list when needed, and place them in your level. To keep things short, let's just fast-forward to a finished level!
+
+tutorial_intro_14a=Remember to save often! Press the button down there (or control + S) to save. This way you can return to your level later, too. You also need to save your level to be able to share it with others.
+tutorial_intro_14a_gpad=Remember to save often! Press @gamepad_editor_quickmenu to go to the Quick Menu and save there, or press @gamepad_editor_altpress + @gamepad_editor_quickmenu to quickly save. This way you can return to your level later, too. You also need to save your level to be able to share it with others.
+
+tutorial_intro_15a=If you want to playtest your level, simply press the 'Test' button down there (or F3 on the keyboard). When playtesting, you can return to the editor via the pause menu (or with F3.)
+tutorial_intro_15a_gpad=If you want to playtest your level, go to the Quick Menu or simply press @gamepad_editor_altpress + @gamepad_editor_currobjlist . When playtesting, you can return to the editor via the pause menu.
+
+tutorial_intro_16a=And that's basically it! The other tutorials will explain all the neat little details more thoroughly, but with the tools shown here you should be able to make a level. Have fun!
+
+tutorial_2_1a=Welcome back!
+tutorial_2_1b=In this tutorial we'll look a bit more into how the editor itself works. This tutorial concentrates on object placement and related features.
+
+tutorial_2_2a=Alright, here we are, back in the level editor.
+
+tutorial_2_3a=The first tutorial briefly explained object placement. It's very simple - go to the object palette (either by pressing the 'objects' button or by pressing tab), select an object there, and place it where you want by clicking with the left mouse button. The tiny arrow in the corner of the object placer will tell you in which direction your objects are facing.
+tutorial_2_3a_gpad=The first tutorial briefly explained object placement. It's very simple; go to the object palette by pressing @gamepad_editor_currobjlist , select an object there, and place it where you want by pressing @gamepad_editor_place . The tiny arrow in the corner of the object placer will tell you in which direction your objects are facing.
+
+tutorial_2_4a=If you click an already-placed object with the right mouse button, you'll 'copy' that object and be able to place it instead of whatever you had selected previously. Similarly, clicking an object with the middle mouse button 'cuts' it out, emptying the spot it was in while letting you again place the same object elsewhere.
+tutorial_2_4a_gpad=If you press @gamepad_editor_copy on an already-placed object, you'll 'copy' that object and be able to place it instead of whatever you had selected previously. Similarly, pressing @gamepad_editor_altpress + @gamepad_editor_cut on an object 'cuts' it out, emptying the spot it was in while letting you again place the same object elsewhere.
+
+tutorial_2_4b=If you've selected an object like Baba or Flag, you can hold Control and use the mousewheel to switch between them and their word counterparts. Handy for quickly building rules!
+tutorial_2_4b_gpad=If you've selected an object like Baba or Flag, you press @gamepad_editor_swap to switch between them and their word counterparts. Handy for quickly building rules!
+
+tutorial_2_5a=If you want to change the position of an already-placed object, hover over it with the object placer and press and hold Control. Then, while holding Control, move your object placer around and the object will follow along. Release Control to put the object down (if there is open space underneath.)
+tutorial_2_5a_gpad=If you want to change the position of an already-placed object, hover over it with the object placer and press and hold @gamepad_editor_drag . Then, while holding @gamepad_editor_drag, move your object placer around and the object will follow along. Release @gamepad_editor_drag to put the object down (if there is open space underneath.)
+
+tutorial_2_5b=When over an already-placed object, the little arrow in the corner of the object placer will tell you which way the object is facing. You can change this direction by pressing arrow keys while hovering over the object.
+tutorial_2_5b_gpad=When over an already-placed object, the little arrow in the corner of the object placer will tell you which way the object is facing. You can change this direction by using @gamepad_editor_rotate while hovering over the object.
+
+tutorial_2_6a=If you want to select 'nothing' in order to erase already-placed objects, you can either use the copy ability over an empty tile, or press Q to quickly empty your selected object.
+tutorial_2_6a_gpad=If you want to select 'nothing' in order to erase already-placed objects, you can either use the copy ability over an empty tile, or press @gamepad_editor_altpress + @gamepad_editor_pickempty to quickly empty your selected object.
+
+tutorial_2_7a=You can also place multiple objects at once! You can do this using the different 'tools' listed here. However, they require enough explaining that we'll tackle them in a later tutorial.
+
+tutorial_2_8a=Every Baba Is You level has 3 layers, meaning that when making a level you can have 3 objects on top of each other at maximum. Press these buttons to change the layer you're on. Alternatively, you can hold Control and press the number buttons 1, 2 and 3. Objects on different layers are dimmed out, so pay attention to that!
+tutorial_2_8a_gpad=Every Baba Is You level has 3 layers, meaning that when making a level you can have 3 objects on top of each other at maximum. You can press @gamepad_editor_scrollleft_layer & @gamepad_editor_scrollright_layer to switch the layer you're editing. Objects on different layers are dimmed out, so pay attention to that!
+
+tutorial_2_9a=Up here we have the 'quickbar'! It lets you quickly select objects you've handled most recently, as well as keep objects you consider most important at hand.
+
+tutorial_2_10a=Use either the number buttons or the mousewheel to browse the quickbar. The green cursor shows you which slot you have currently selected. You can also click directly on the slots to select them.
+tutorial_2_10a_gpad=Use @gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar to browse the quickbar. The green cursor shows you which slot you have currently selected.
+
+tutorial_2_11a=The quickbar updates automatically with the most recent object you have picked, if that object isn't already in the quickbar. If you want to make sure that a specific object never leaves the quickbar, click it with the right mouse button. The outlines of the slot change a bit to indicate that the slot is 'locked'. Right-click it again to unlock it. The word 'Is' is locked by default when you start the editor.
+tutorial_2_11a_gpad=The quickbar updates automatically with the most recent object you have picked, if that object isn't already in the quickbar. If you want to make sure that a specific object never leaves the quickbar, press @gamepad_editor_altpress + @gamepad_editor_lock . The outlines of the slot change a bit to indicate that the slot is 'locked'. Press the buttons again to unlock it. The word 'Is' is locked by default when you start the editor.
+
+tutorial_2_12a=If you want to remove a specific object from the quickbar, simply click that slot with the middle mouse button.
+tutorial_2_12a_gpad=If you want to remove a specific object from the quickbar, simply press @gamepad_editor_altpress + @gamepad_editor_empty_hotbar when that slot is selected.
+
+tutorial_2_13a=When creating a level, remember to test and save it frequently! Use the buttons down below to do either. You can also hold Control and press S to save, and press F3 to test a level, if you wish.
+tutorial_2_13a_gpad=When creating a level, remember to test and save it frequently! Use the Quick Menu ( @gamepad_editor_quickmenu ) to do both, or press @gamepad_editor_altpress + @gamepad_editor_quickmenu to save and @gamepad_editor_altpress + @gamepad_editor_currobjlist to test a level.
+
+tutorial_2_14a=Alright, that's it for now! There are various additional tricks that may make your level creation smoother, but we'll return to those in later tutorials.
+
+tutorial_3_1a=Welcome back!
+tutorial_3_1b=This tutorial explores using the editor view in more depth; specifically we'll go through the various object-placement tools that were skipped in tutorial 2.
+
+tutorial_3_2a=And here we are again, the editor. You can see the list of tools on the right, there.
+
+tutorial_3_3a=Your default tool is the Pencil. It works like you'd expect; click on a tile and an object appears.
+tutorial_3_3a_gpad=Your default tool is the Pencil. It works like you'd expect; select a tile and press @gamepad_editor_place on a tile and an object appears.
+
+tutorial_3_4a=Jumping down the line a bit, another basic tool is the Eraser. It works like the pencil, except that it removes objects. The effect is practically the same as using the pencil and placing 'empty' tiles.
+
+tutorial_3_5a=Next is the Line tool. Select a tile, drag a line from it, and every tile on the way has an object appear on it. The line is sometimes a bit inaccurate, but can be very handy for quickly placing rows and columns of objects.
+
+tutorial_3_6a=Like so. We selected the tile on the right and dragged a line to the left to place several Flags.
+
+tutorial_3_7a=Then comes the Rectangle tool. It works on the same principle as the line tool; select a tile and drag a rectangle to place several objects at once.
+
+tutorial_3_8a=Nice!
+
+tutorial_3_9a=The next tool, Filled rectangle, is more of a variation of the Rectangle tool. It works the same way, except the resulting rectangle is, well, filled.
+
+tutorial_3_10a=We'll jump over the next tool for a bit, to the Fill tool. It works exactly as it says on the tin - it fills a continuous area with the same object. 'Continuous' is in this case defined by an area made up of the same object, like a connected group of Babas, or an empty space.
+
+tutorial_3_11a=Alright, now to the most complex one - the Selection tool! With it you can quickly move and rotate multiple objects in the level.
+
+tutorial_3_12a=The basic function is similar to the Rectangle tool: select a tile and drag a rectangle-shaped area. It will be marked with red, as seen here.
+
+tutorial_3_13a=Once an area has been selected, moving the cursor moves all the objects in that area around as well. If you press the left mouse button, you can place copies of said objects wherever your selection is. Normally when placing the selection, the empty tiles in it will remove any objects underneath, but you can alter this behaviour by holding Shift during the placement.
+tutorial_3_13a_gpad=Once an area has been selected, moving the cursor moves all the objects in that area around as well. If you press the @gamepad_editor_place, you can place as many copies of said object wherever your selection is. When placing the selection this way, the empty tiles in it will remove any objects underneath, but with @gamepad_editor_undo you'll place the selection while avoiding this behaviour.
+
+tutorial_3_14a=You can rotate, mirror and flip the selection with the arrow keys. Left and Right arrow rotate accordingly, Up arrow mirrors, and Down arrow flips the selection.
+tutorial_3_14a_gpad=You can rotate, mirror and flip the selection. @gamepad_editor_scrollleft_tool & @gamepad_editor_scrollright_tool rotate accordingly, @gamepad_editor_scrollright_hotbar mirrors, and @gamepad_editor_scrollleft_hotbar flips the selection.
+
+tutorial_3_15a=Simply press the right mouse button to remove the selection. Note, though, that the objects in the selection will be gone after this!
+tutorial_3_15a_gpad=Simply press the @gamepad_editor_drag to remove the selection. Note, though, that the objects in the selection will be gone after this!
+
+tutorial_3_16a=...And that's it for now! With these tools, editing the levels should be quite a bit smoother.
+
+tutorial_4_1a=Hello again!
+tutorial_4_1b=In this tutorial we'll turn our attention to the object palette, which is the list of objects you can place into your level.
+
+tutorial_4_2a=Once again, we start with an empty level.
+
+tutorial_4_3a=Pressing the 'Objects' button or Tab will take you to the object palette.
+tutorial_4_3a_gpad=Pressing @gamepad_editor_currobjlist will take you to the object palette.
+
+tutorial_4_4a=To select an object for placing, simply click on it. This will also automatically leave the menu. If you don't want to select anything, pressing Tab again leaves the menu, too.
+tutorial_4_4a_gpad=To select an object for placing, press @gamepad_editor_place on it. This will also automatically leave the menu. If you don't want to select anything, pressing @gamepad_editor_currobjlist again leaves the menu.
+
+tutorial_4_5a=The game lets you choose between two modes on how to display your object palette. In the first mode, all the different words and objects are shown together (like now), and in the second one objects and their words are stacked on top of each other (as in, 'baba' the creature and 'baba' the word are on the same slot.) Use this button to switch between the two modes.
+
+tutorial_4_6a=When using the stacked view, simply use the mousewheel (or the indicated button) to switch whether objects or their words are visible. This makes for a more compact view, but ultimately this is up to your own preference. For now, let's go back to the non-stacked mode.
+tutorial_4_6a_gpad=When using the stacked view, simply use @gamepad_currobjlist_swap (or the indicated button) to switch whether objects or their words are visible. This makes for a more compact view, but ultimately this is up to your own preference. For now, let's go back to the non-stacked mode.
+
+tutorial_4_7a=By default the object palette is quite bare-bones. Use the indicated button to add more objects to your palette, up to a maximum of 150 per level!
+tutorial_4_7a_gpad=By default the object palette is quite bare-bones. Use the indicated button or @gamepad_currobjlist_addnew to add more objects to your palette, up to a maximum of 150 per level!
+
+tutorial_4_8a=This is the object list, briefly visited in the first tutorial. Here are listed all the objects you can possibly add to your level. There are quite a few! By default some of the options are removed from this list so that if you haven't played the full game, you can avoid some spoilers. Head to the editor settings to change this if you so desire.
+
+tutorial_4_9a=To help you with finding things you need or might want, you can use the search button or apply tags to find objects following a certain theme. These same buttons exist in the object palette itself as well, to make finding a specific object easier. You can also just press letter keys to automatically start a search.
+tutorial_4_9a_gpad=To help you with finding things you need or might want, you can use the search button or apply tags to find objects following a certain theme. These same buttons exist in the object palette itself as well, to make finding a specific object easier. You can also press @gamepad_editor_currobjlist to quickly start a search.
+
+tutorial_4_10a=Alright, we picked 'Wall'; picking an object returns you immediately back to the object palette (unless you hold Control). You can see that the editor automatically added both Wall and its text counterpart for convenience.
+tutorial_4_10a_gpad=Alright, we picked 'Wall'; using @gamepad_editor_place for picking an object returns you immediately back to the object palette, but @gamepad_editor_drag lets you stay in the object list to add more objects to your object palette. You can see that the editor automatically added both Wall and its text counterpart for convenience.
+
+tutorial_4_11a=If you want to remove an object from your palette, select the button being pointed at and click the object you wish to remove, or hold control and click with the right mouse button on the object. Keep in mind that doing this will remove all instances of that object from your level, and that if you remove an object, its text counterpart will also be removed.
+tutorial_4_11a_gpad=If you want to remove an object from your palette, select the button being pointed at while hovering over the object that you want to remove, or press @gamepad_currobjlist_remove while hovering over the object. Keep in mind that doing this will remove all instances of that object from your level, and that if you remove an object, its text counterpart will also be removed.
+
+tutorial_4_12a=Next to the deletion button up there we have the 'edit object' button. This lets you edit certain settings related to the objects, which we'll go through next. Press the 'edit object' button and select the object you wish to edit, or simply right-click over the object.
+tutorial_4_12a_gpad=Next to the deletion button up there we have the 'edit object' button. This lets you edit certain settings related to the objects, which we'll go through next. Press the 'edit object' button while hovering over the object you want to edit, or simply press @gamepad_currobjlist_edit while over the object.
+
+tutorial_4_13a=Here's the view that opens when you start editing an object. You can change the colour of the object, its sprite (that is, what it looks like) and its Z value. The Z value simply determines which object is shown on top when multiple objects are on the same tile. The higher the number (going up to 20), the higher the object is on the pile.
+
+tutorial_4_14a=Alright, that's enough of that. By editing an object's settings you can set up all kinds of neat visual tricks!
+
+tutorial_4_15a=Finally, you can also reposition objects in the object palette by dragging them around. Hold control and click on an object and then drag it around. This way you can put everything to the spots from which you find them most easily!
+tutorial_4_15a_gpad=Finally, you can also reposition objects in the object palette by dragging them around. Hold @gamepad_currobjlist_drag on an object and then drag it around. This way you can put everything to the spots from which you find them most easily!
+
+tutorial_4_16a=And here we are again; those are the basics of the object palette. Keep in mind that when starting to create a new level, you can select a ready-made theme that has thematically appropriate objects already added to the object palette. This can save you a bunch of time.
+
+tutorial_5_1a=...And welcome back!
+tutorial_5_1b=This tutorial will look at various settings and other options you can select while making your level(s).
+
+tutorial_5_2a=Alright then; in the main editor view, you can see two buttons down there, 'Settings' and 'Menu'. We'll call them 'Level settings' and 'Editor menu' in this tutorial, respectively.
+tutorial_5_2a_gpad=Alright then; in the main editor view, press @gamepad_editor_quickmenu to open the quick menu and note the two buttons at the bottom. We'll call them 'Level settings' and 'Editor menu' in this tutorial, respectively.
+
+tutorial_5_3a=We'll look at the 'Level settings' menu first. It's used to change various details about the level, such as music, colours, name, and so on.
+
+tutorial_5_4a=First of all is the button to change the level's name. Pretty self-explanatory! Please no nasty names or Baba will be Angry!!
+
+tutorial_5_5a=Secondly we have the button to change the level's author. That's usually you! Once you've set the author of one level, the game will suggest the same name for future levels.
+
+tutorial_5_6a=Next is the level subtitle button. This lets you give the level a short tagline or motto that appears underneath the name when someone plays the level.
+
+tutorial_5_7a=Then comes the music button. This opens a menu where you can select whichever track you wish to play on the background of your level, as you might've guessed.
+
+tutorial_5_8a=And there's the particles button - this lets you add various decorative background effects to your level, from rain to blinking stars. Nifty!
+
+tutorial_5_9a=The palettes button lets you change the colourscape of the level. This can affect the mood immensely.
+
+tutorial_5_10a=Next up is the level size button. It's quite self-explanatory; you can adjust the level size using that sub-menu, although the maximum size is 33 x 18 tiles.
+
+tutorial_5_11a=Down there are various additional settings, if you e.g. want to remove particle effects from your level only. The 'Level Is Auto' slider is an odd one - we'll return to that in a later tutorial.
+
+tutorial_5_12a=Okay, that's it for the 'Level settings' menu, let's take a look at 'Editor menu' next.
+
+tutorial_5_13a=You don't have quite as much reason to visit this menu usually, because these options are a bit more general.
+
+tutorial_5_14a=Up here we have the button for uploading your level to the internet for others to play. We'll return to that later.
+
+tutorial_5_15a=The theme menu lets you change your level's theme if you didn't pick the correct one when you created your level, and to save your current level's object palette and such as a new theme.
+
+tutorial_5_16a=Be warned, though! If you select a new theme, your entire level will be emptied first! For safety reasons, you see. You can also delete old themes you've made via this submenu.
+
+tutorial_5_17a=Back in the Editor menu, next we have the level deletion button. It deletes your level. Scary stuff, but sometimes it needs to be done.
+
+tutorial_5_18a=...And finally on the list we have the level copying button. It creates an identical copy of your level. This can be handy if you want to make multiple levels with the same basic layout.
+
+tutorial_5_19a=That was it! It's recommended that when starting out you toy around with the various settings to get a feel for them and so that you know all the tools at your disposal.
+
+tutorial_6_1a=Hello!
+tutorial_6_1b=This tutorial explains the process of uploading your own levels online for others to play! Before reading, it may be useful to have a finished level you're happy with so that you can afterwards test the lessons of this tutorial.
+
+tutorial_6_2a=In order to start uploading the level, go to the Editor Menu.
+
+tutorial_6_3a=When there, select the 'Upload level' button.
+
+tutorial_6_4a=The editor will display the current name, author and subtitle of the level. Make sure you like what you see and you've saved the level, and select 'Yes'!
+
+tutorial_6_5a=...Note, though, that before the level is uploaded you have to beat it yourself. This is to avoid levels that are impossible to solve.
+
+tutorial_6_6a=Once you've beaten the level, the editor will try to upload it. If everything goes fine, the game shows you the 9-symbol download code for the level so that you can immediately share the level with your friends! An error message will appear instead if something goes wrong.
+
+tutorial_6_7a=If you forget the level code or just want to see it later, the main editor menu has the button 'Level history' which lets you see the codes of levels you've uploaded and/or downloaded in the past.
+
+tutorial_6_8a=That's pretty much all! Not too complicated. A reminder: please don't upload levels that are offensive or otherwise unacceptable; they will be removed from the server. Wholesome levels are your friends!
+
+tutorial_7_levelname=Example level
+tutorial_7_author=It could be you!
+tutorial_7_subtitle=Example subtitle
+
+tutorial_7_1a=Alright!
+tutorial_7_1b=In this tutorial we'll go through the steps of downloading levels. This is relevant for more than just the editor, but presumably that's not a problem.
+
+tutorial_7_2a=Every uploaded level gets a special 9-symbol 'Level code' that is used to find the level later on the level database. The code has two jumbles of capital letters and numbers, separated by a line. Most of the time you'll be looking for a level using a code like this.
+
+tutorial_7_3a=To download new levels, head either to the 'Play levels' menu or the main editor menu and select 'Get new levels'.
+
+tutorial_7_4a=While in this menu, you can choose how you'd prefer to download new levels. 'Use level code' requires you to know the level code of a specific level, if you for example want to see a level your friend made.
+
+tutorial_7_5a='Featured levels' lets you view a list of levels our team has picked that we felt were interesting; this list will change every now and then to showcase new finds. Selecting a level here takes you to the code-entering view with the level's code already entered.
+
+tutorial_7_6a=If your download attempt is successful, you'll see this menu. Here you can see basic data about the level, and can choose what to do with it.
+
+tutorial_7_7a='Play now, don't save' does exactly as it says; you'll start playing the level you downloaded and once you stop playing it, you'll need to download it again to play it again.
+
+tutorial_7_8a='Save level' saves the level to your level list, after which you can choose to play the level or return to the main menu.
+
+tutorial_7_9a=When playing a level you've downloaded, you can find a button labelled 'Report level' in the pause menu. If the level is offensive, it makes you otherwise uncomfortable or you feel it's against the rules, use this button to report it. We'll go through the reports and take down levels that aren't acceptable. Thank you for the help!
+
+tutorial_7_10a=Not much to it other than that. Pretty simple, all things considered!
+tutorial_7_10a_n=Not much to it other than that. Pretty simple, all things considered! Note though, that you have a limit of 100 levels at maximum on your device - including levels made by you.
+
+tutorial_8_1a=Hi!
+tutorial_8_1b=In this tutorial we'll go through various useful shortcuts and such that can make your level-creation process faster. Note that all the shortcuts listed here can be found in the editor's help section, just above these tutorials!
+
+tutorial_8_2a=Let's start from the level list. If you need to get rid of a level quickly, you can delete it straight from this menu by right-clicking on it. You'll still have to confirm the deletion, of course.
+tutorial_8_2a_gpad=Let's start from the level list. If you need to get rid of a level quickly, you can delete it straight from this menu by pressing @gamepad_editor_undo. You'll still have to confirm the deletion, of course.
+
+tutorial_8_3a=Also, in this menu as well as any other menu with searching capabilities, you can start a search simply by pressing a letter button!
+tutorial_8_3a_gpad=Also, in this menu as well in multiple others, you can start a search by pressing @gamepad_editor_currobjlist and quickly browse pages with @gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar and jump several pages at a time with @gamepad_editor_scrollleft_tool & @gamepad_editor_scrollright_tool !
+
+tutorial_8_4a=Rest of the tutorial will be spent in the editor proper. We'll start with the main editor view.
+
+tutorial_8_5a=Pressing and holding F lets you see the directions all the objects currently on the layer you're editing are facing.
+tutorial_8_5a_gpad=Holding @gamepad_editor_altpress and @gamepad_editor_showdir lets you see the directions all the objects currently on the layer you're editing are facing.
+
+tutorial_8_6a=The WASD buttons let you move all the objects in the level at once. Useful if you accidentally placed a structure off-center and want to move it all, for example.
+tutorial_8_6a_gpad=Holding @gamepad_editor_moveall and using @gamepad_editor_rotate lets you move all the objects in the level at once. Useful if you accidentally placed a structure off-center and want to move it all, for example.
+
+tutorial_8_7a=Holding Control and clicking on a tile with the middle mouse button clears the tile entirely, all layers included. And if you're unsatisfied with a level as a whole, holding Control and pressing Delete clears the entire level all at once.
+tutorial_8_7a_gpad=Holding @gamepad_editor_altpress and pressing @gamepad_editor_emptytile clears a tile entirely, all layers included.
+
+tutorial_8_8a=Pressing F3 lets you quickly switch between testing a level and the editor view, and R moves you directly to adding new objects to your object palette. There are also a couple of handy buttons for quickly selecting specific words: I selects Is, U selects And, Y selects Not and Q selects 'nothing'. Holding Control and pressing S saves the level.
+tutorial_8_8a_gpad=Holding @gamepad_editor_altpress and pressing @gamepad_editor_currobjlist lets you start testing your level instantly, and holding @gamepad_editor_altpress and pressing @gamepad_editor_quickmenu quickly saves it. Also, @gamepad_editor_altpress + @gamepad_editor_emptytile lets you quickly select 'nothing' as your current chosen object.
+
+tutorial_8_9a=Pressing F4 in the main editor view lets you enter a sentence, and the game will automatically give you a selection that contains the words you entered (if they exist in the game). For example, if you press F4 and enter 'Baba Is You', you will get a selection with the word objects 'Baba', 'Is' and 'You'. This even adds the words to your object palette if they weren't there already! Very handy if you know what you're looking for.
+tutorial_8_9a_gpad=Holding @gamepad_editor_altpress and pressing @gamepad_editor_autopick in the main editor view lets you write a sentence, and the game will automatically give you a selection that contains the words you entered (if they exist in the game). For example, if you press those buttons and enter 'Baba Is You', you will get a selection with the word objects 'Baba', 'Is' and 'You'. This even adds the words to your object palette if they weren't there already! Very handy if you know what you're looking for.
+
+tutorial_8_9a_extra=The 'Level Is Auto' slider was brought up in tutorial 5. Here's how it works: if you form the rule 'Level Is Auto' while playing a level, the game will start progressing at its own pace, even if you don't press any buttons. There'll be a wait between every 'update'; this way you can for example make rhythm minigames and other neat things. The 'Level Is Auto' slider changes the speed at which the game updates during this. The lower the slider, the shorter the wait between updates, and consequently the faster the level goes. Try it out!
+
+tutorial_8_10a=There are also a couple useful tools in the object palette view!
+
+tutorial_8_11a=Clicking on an object with the right mouse button will start editing the data of that object directly. However, if you hold Control while doing this, you'll delete the object from the object palette instead. Also, if you have the 'paired' mode selected, rotating your mousewheel will swap between objects and their words.
+tutorial_8_11a_gpad=Pressing @gamepad_currobjlist_edit over an object goes directly to editing the object's metadata. Pressing @gamepad_currobjlist_remove will delete the object from the object palette instead.
+
+tutorial_8_12a=Pressing F4 in the object palette view again lets you enter a sentence; however, in this case the objects in your sentence will only be added into the object palette (if they exist and aren't there already.)
+tutorial_8_12a_gpad=Holding @gamepad_editor_altpress and pressing @gamepad_currobjlist_autoadd in the object palette view lets you again write a sentence; however, in this case the objects in your sentence will only be added into the object palette (if they exist and aren't there already.)
+
+tutorial_8_13a=There are several other handy tools, but we should've now covered the most important ones. Again, be sure to check the full list of shortcuts from the editor help menu if you want to really maximize the ease of use!
+
+tutorial_9_1a=Well then!
+tutorial_9_1b=This tutorial will be less about how to use the editor and more about (possibly) useful design tips to get you started with making your own levels!
+
+tutorial_9_2a=These tips are primarily meant to help with creating puzzle levels. There are several ways to approach the design of a puzzle, and different methods work better for some people, I'd imagine. I'm going to explain the method that worked for me and was used when designing many of Baba Is You's original levels. You're free to create automatons, little scenes you find pretty and other non-puzzles, though! Just keep in mind that in order to upload your level to the internet, it must be winnable in some way, even if the win condition was just tucked away in a corner.
+
+tutorial_9_3a=Before we start: it can feel fun to make a level where the point is that the level is frustrating, unpleasant to look at, has jumpscares or something to that effect. A well-executed trick or joke can be legitimately fun, but please keep in mind that for example rapidly-flashing colours can be harmful to some players, and that when it comes to simple annoying gimmicks, someone else will inevitably have considered and created the same idea already. In any case, levels that have no other point than making other players uncomfortable will most probably be removed.
+
+tutorial_9_4a=So then - a very important thing is that a puzzle usually benefits from a having a central theme; some kind of a $1,4'point'$0,3 or $1,3twist$0,3 around which the level is built. Sometimes a single level might have multiple of these, but it may be best to concentrate on expressing a single idea as well as possible. In many of the original puzzles I tried to design the levels around a specific realization or $2,4'a-ha moment'$0,3 that I wanted the player to experience. This helps give the puzzle structure, but it can also make it easier to grasp and thus prevent needless confusion.
+
+tutorial_9_5a=Now, how would one come up with such a point or twist? It can be difficult to force a great idea to come to you, but trying things out in your head or in the editor can be a good way to get inspiration. I usually prefer to consider the words, mechanics and other components I have and try to combine those in my head to figure out interactions that seem interesting or cool in some way; ideas that I feel might amuse a player when they figure them out. The best interactions are usually those that aren't too obscure and make sense in hindsight but do something slightly unexpected.
+
+tutorial_9_6a=Another important aspect to consider with a puzzle idea is how many words, rules and other elements it requires to set up, that is, how $4,2'elegant'$0,3 it is. When I figure out an interaction that seems inspiring, I try to build a level where the solution requires the player to utilize that specific interaction and prevent other approaches. Letting others test the level is a better way to do this, but even when testing on my own I can often at this point notice if requiring the interaction while preventing other solutions requires a lot of extra words.
+tutorial_9_6b=In my opinion it's especially inelegant if a puzzle requires several very specific restrictions to work. It's much neater if you can prevent an unwanted solution with $2,3'Baba Is Baba'$0,3 or by adjusting the shape of the level rather than with $2,2'Baba Is Not Rock And Not Wall And Not Flag'$0,3, for example.
+
+tutorial_9_7a=This concept of elegance can also be applied to the structure of the level. In a Baba Is You puzzle, the player has to take in quite a lot due to having to read and fully understand the rules written in it, among other things. Therefore it can be polite to build your level so that the player has an easy time understanding what is happening in it. Part of this is the aforementioned aspect of having as few extra words and rules as possible.
+tutorial_9_7b=Another part of this is visual clutter. Putting decorations in your level is excellent, but it can be a good idea to place your rule sentences so that the player doesn't have to search for them among various decorative pieces but can instead easily make them out. Also marking rules that can never be changed by placing them clearly out of reach is a polite practice.
+
+tutorial_9_8a=This brings us to the topic of $2,2'red herrings'$0,3 - that is, elements that look important but turn out not to be. My opinion on these kinds of puzzle elements has changed a lot over time, but right now I would say that having elements that are in the level purely to mislead the player isn't very elegant and generally adds additional busywork, frustration and feeling of overwhelmingness to the puzzle-solving. It might be best to try to only include things in your puzzle that are really required $1,4(apart from decorations, $1,4of course!)$0,3
+tutorial_9_8b=That said, a simple red herring can be fun to have from time to time when it misleads the player in a limited manner and in a way that in hindsight seems amusing.
+
+tutorial_9_9a=As you get a deeper understanding of the mechanics of Baba Is You, it can be easy to forget that interactions between words may require very in-depth knowledge of how the game works. I've ran into the problem where because I wrote the logic of the game, I get a puzzle idea where it turns out that I was expecting the player to also understand the entire logic of the game. When creating your level, remember to consider who you're making the level for; if you intend your level for expert players, expecting them to understand the deep nuances of the game logic is fine, but in other cases overly obscure mechanics can seem impenetrable for the player.
+
+tutorial_9_10a=Finally, some extra words about decorations. As mentioned earlier, making sure that the player can easily grasp the puzzle despite the decorations is important. To add to this, adding a lot of decorations into the area of the level where the player will actually move and solve the puzzle in can end up being very confusing for the player. For example, there are certain words $1,4(such as Weak)$0,3 that can make even decorative elements affect things in the puzzle and thus appear relevant to the puzzle by accident.
+tutorial_9_10b=It can also be a good idea to shape structures that are important for the puzzle in a more simplistic way even if it makes them seem less natural. For example, A simple square-shaped pool of Water can help the player see what elements in the level are relevant for solving the puzzle when compared to a sprawling lake. You can then place the more organic and wild decorations at the edges of the level to give it flavour.
+
+tutorial_9_11a=That's it! Again, these are my personal opinions and observations about designing puzzles; other people might $1,4(and will)$0,3 disagree and that's completely fine. Ultimately, you'll decide what kind of levels you want to make. Letting others test your levels and give feedback is often the best way to make sure that what you're creating is going in a good direction. I hope these points were useful, though! Have fun with the editor!
+
+tutorial_10_1a=Welcome back!
+tutorial_10_1b=This is a strategy guide to help you defeat the $2,2Red Dragon$0,3, the secret superboss you can find at the $2,3Fire Peaks$0,3 at the end of Disc 4. The guide assumes you're familiar with basic concepts of the game as well as some more advanced techniques, such as the $2,4Friendship Overload$0,3, $1,4Armour Juggling$0,3 and the $1,2Sleeping Time Skip$0,3.
+
+tutorial_10_2a=Before you head to $2,3Fire Peaks$0,3 at all, make sure you have exactly 45 $5,3Greater Tonics$0,3, at least one $0,2Earwig of Shielding$0,3 and some spare $2,2Fire Hydrant spellstones$0,3. Also your team should be at least level 24, because $2,3Fire Peaks$0,3 is an endgame area. Leveling $2,2Keke$0,3 up to level 25 may be beneficial because they learn the $1,3Float$0,3 ability at that level.
+
+tutorial_10_3a=The $2,2Red Dragon$0,3 wanders randomly in one of the rooms in $2,3Fire $2,3Peaks$0,3; the room with the lava fountain is your best bet because it's right next to a save point and thus allows you to quickly switch $5,2Allegiance $5,2Schemas$0,3 as needed. When you see the $2,2Red Dragon$0,3 on the screen, have $5,2Fofo$0,3 cast $1,2Hide$0,3 on the entire party, and initiate a surprise encounter with $4,1Baba$0,3's $1,4Dash$0,3 ability. Note though that the $2,2Red Dragon$0,3 has resistance against attacks from below, so only approach it from the top.
+
+tutorial_10_4a=Once the encounter starts proper, use your surprise advantage to replace $4,1Baba$0,3's $1,2Sneaking Crown$0,3 with a $2,2Fire Wig$0,3, and move them in the front row. If $2,3Jiji$0,3 has any leftover $2,2Habaneros$0,3, use the $6,2Cook$0,3 ability to prepare some $2,4Mango-Habanero Hot Sauce$0,3 for later use.
+
+tutorial_10_5a=The $2,2Red Dragon$0,3 always starts by performing the $2,1Fiery Jig$0,3. $2,2Keke$0,3 and $4,1Baba$0,3 will probably always be charmed, but $5,2Fofo$0,3's naturally resistant to dance-type moves and $2,3Jiji$0,3's Paper Plate Mask should block the effect. $2,2Keke$0,3 can stay charmed for now, but snap $4,1Baba$0,3 out of the effect by patting them on the head. If the head-pat misses, it might be safer to just reset and retry, although you might still be able to make it nonetheless.
+
+tutorial_10_6a=At this point have $5,2Fofo$0,3 start channeling the $5,3Happy Song$0,3, while $4,1Baba$0,3 and $2,3Jiji$0,3 can use the $2,2Fire Hydrant spellstones$0,3 to cool the $2,2Dragon$0,3 down. $2,2Keke$0,3 may use $1,3Float$0,3 as needed if the $2,2Dragon$0,3 casts the $2,3Floor Is Lava$0,3 spell. Continue with this strategy until the $2,2Dragon$0,3 is all cooled down, and drink the $5,3Greater Tonics$0,3 when necessary.
+
+tutorial_10_7a=Eventually the $2,2Red Dragon$0,3 will have cooled down entirely. Once the $2,2Dragon$0,3 switches from $2,2Angry Stomps$0,3 to $2,3Annoyed Slaps$0,3, move $2,2Keke$0,3 to the front row and serve a $2,4Gourmet Dish$0,3 to the $2,2Dragon$0,3. In case $2,3Jiji$0,3 has had time to prepare some, apply $2,4Hot Sauce$0,3 on the $2,4Gourmet Dish$0,3 to increase chances of success. Note! The $2,2Red Dragon$0,3 is $5,3vegan$0,3, so be sure to choose the dish appropriately. Bam! Friendship achieved!
+
+tutorial_10_8a=And there you have it! Being successful in this encounter not only nets you a cool new mount, but there's also a 80 percent chance to get a $0,1Dragonscale $0,1Gaming Mouse$0,3 as a drop, which will almost certainly be an upgrade to whatever mouse $5,2Fofo$0,3 has equipped at this point of the game.
+
+tutorial_10_9a=Thank you for reading this strategy guide, and good luck on the $2,2Red Dragon$0,3 hunt!
+
+world_museum=ijo majuna
+world_new_adv=alasa sin
+
+museum_101level=Welcome to the museum!
+museum_102level=Factory worker
+museum_103level=Backstage
+museum_104level=Train 2
+museum_105level=Shuffle
+museum_106level=Boilerworks 2
+museum_107level=Fungal trial 2
+museum_108level=Safe
+museum_109level=More unused levels
+museum_109level_mapid=<empty>
+museum_10level=Affection
+museum_112level=Thank you for playing!
+museum_113level=Fiery pit
+museum_114level=Fragile existence - old
+museum_125level=Fallen words
+museum_126level=Boilerworks
+museum_12level=Separated by liquids
+museum_134level=Dim signal
+museum_13level=Babas are you
+museum_140level=Heavy fortification
+museum_143level=Apartment building
+museum_14level=The very locked hallway
+museum_152level=Fungal trial
+museum_154level=Secret garden
+museum_15level=Novice locksmith
+museum_16level=Delicate box
+museum_19level=Victory locker
+museum_204level=Key
+museum_20level=Covered by ice
+museum_213level=Move
+museum_24level=Cemetery
+museum_256level=After hours
+museum_259level=Double insulation
+museum_25level=Reach the flag, please
+museum_267level=Fortress 2
+museum_26level=Keke the guard
+museum_276level=Train
+museum_27level=Safeguard
+museum_290level=Mobile lawn
+museum_296level=Turmoil in the clouds
+museum_300level=Cannon
+museum_311level=Keychain
+museum_321level=Secure cottage
+museum_328level=Tunnel
+museum_34level=Baba does not respond
+museum_35level=Cloud chamber
+museum_36level=Skeleton friends
+museum_38level=Public park rules
+museum_39level=Perfect crime A
+museum_40level=Dangerous garden
+museum_41level=House A
+museum_42level=House B
+museum_43level=House C
+museum_44level=House D
+museum_45level=House E
+museum_46level=Perfect crime B
+museum_50level=Beyond the river
+museum_52level=Tunnel vision
+museum_53level=Fortress
+museum_55level=Changeless A
+museum_56level=Changeless B
+museum_60level=Lonely sight
+museum_61level=Quarters
+museum_62level=Telephone
+museum_63level=Rusty door
+museum_65level=Back
+museum_66level=Twisty ways
+museum_68level=Wireless connection
+museum_73level=Moss on my doorstep
+museum_74level=Crossroads
+museum_79level=Museum of Unused Levels
+museum_79level_mapid=<empty>
+museum_80level=Old sewer
+museum_81level=Faucet
+museum_82level=Secure cottage prelude
+museum_83level=Victory by burning
+museum_84level=Museum of Revisions
+museum_84level_mapid=<empty>
+museum_85level=The Museum
+museum_85level_mapid=<empty>
+museum_86level=Lift
+museum_87level=Basics!
+museum_88level=Basics?
+museum_92level=Explorers
+museum_94level=Unsuspecting crowd
+museum_95level=Mouse hole
+museum_96level=Harmony
+museum_97level=Baba fields
+museum_d68level=Wireless connection 2
+museum_spoilerlevel=Warning!
+museum_x103level=Bodyguards
+museum_x135level=Endless corridor
+museum_x148level=Tour
+museum_x164level=Multitool
+museum_x195level=Unwanted guest
+museum_x20level=Icy waters
+museum_x59level=Condition
+museum_x70level=Trap classic
+museum_x98level=Key in the open
+museum_y103level=Maintenance tunnel
+museum_y128level=Reunion
+museum_y138level=Even less there
+museum_y139level=Cranny
+museum_y246level=Toolshed
+museum_y317level=Straw
+museum_y322level=Majestic columns
+museum_y326level=Orchestra pit
+museum_y39level=Settlement
+museum_y40level=Settlement 2
+museum_y50level=Nearly
+museum_y7level=Catch the thief!
+museum_y85level=Canyon
+museum_y8level=Locked in
+museum_yylevel=Tough liquids
+
+new_adv_100level=Looking for hollow spots
+new_adv_101level=Maintenance tunnels
+new_adv_102level=Smelting facility
+new_adv_103level=Hidden blueprints
+new_adv_104level=Fertile ground
+new_adv_105level=Electricity
+new_adv_106level=Snowy morning
+new_adv_107level=Rapid growth
+new_adv_108level=Alpine meadow
+new_adv_109level=Log cabin
+new_adv_110level=My home is on fire
+new_adv_111level=Test chamber
+new_adv_112level=Former glory
+new_adv_113level=Too late
+new_adv_114level=Bare
+new_adv_115level=Lockpicking
+new_adv_116level=Returning home
+new_adv_117level=Solar Energy
+new_adv_118level=Standby
+new_adv_119level=Sturdy flowers
+new_adv_120level=Treehouse
+new_adv_121level=Planet Baba
+new_adv_122level=Written in stone
+new_adv_123level=Antigravity
+new_adv_124level=Seasick
+new_adv_125level=House house
+new_adv_127level=Dangerous feeling
+new_adv_128level=Feeling dangerous
+new_adv_129level=Once more with feeling!
+new_adv_130level=Who is it?
+new_adv_131level=Pushing Uphill
+new_adv_132level=How time flies...!
+new_adv_133level=Sneaking about
+new_adv_134level=Seasons
+new_adv_135level=Parakeet bouncer
+new_adv_136level=Familiar Land
+new_adv_136level_mapid=Familiar
+new_adv_137level=Starry Lands
+new_adv_137level_mapid=Star
+new_adv_138level=Land of Delicacies
+new_adv_138level_mapid=Delicacy
+new_adv_139level=Land of Vehicles
+new_adv_139level_mapid=Vehicle
+new_adv_140level=Land Land Land
+new_adv_140level_mapid=Glitch
+new_adv_141level=Land of Oddities
+new_adv_141level_mapid=Oddity
+new_adv_142level=What's that?
+new_adv_143level=Where am I going?
+new_adv_144level=Why all this?
+new_adv_145level=Midnight meeting
+new_adv_146level=Private garden
+new_adv_147level=Secret clearing
+new_adv_148level=There and back
+new_adv_149level=Whoops Deluxe
+new_adv_150level=Tapestries
+new_adv_151level=Presenting credentials
+new_adv_152level=Reverse fate
+new_adv_153level=Baba the Conductor!
+new_adv_154level=Buzz
+new_adv_155level=Toy Factory
+new_adv_156level=Ventilation Shaft
+new_adv_157level=AAAA
+new_adv_158level=Hedge maze
+new_adv_160level=Baba Invaders
+new_adv_161level=Baba Hour
+new_adv_162level=Babarcade
+new_adv_162level_mapid=Arcade
+new_adv_164level=A simple maze
+new_adv_165level=Another simple maze
+new_adv_166level=Darkish Dungeon
+new_adv_167level=Snakeke
+new_adv_168level=Teamwork is a must
+new_adv_168level_subtitle=Move down to switch unit
+new_adv_170level=Colourful cavern old
+new_adv_171level=Musical interlude
+new_adv_172level=New friends!
+new_adv_173level=Private club
+new_adv_174level=New members
+new_adv_175level=Exclusive membership
+new_adv_176level=Clockwork ghosts
+new_adv_177level=Clockwords
+new_adv_178level=Clockworld
+new_adv_179level=Colourful cavern
+new_adv_17level=Tangled passage
+new_adv_180level=Conclusion
+new_adv_181level=Hangar
+new_adv_182level=Outreach
+new_adv_183level=Garden? What garden?
+new_adv_18level=Moonrise, sunset
+new_adv_19level=What does baba eat?
+new_adv_1blevel=OOOOO OO O OOO
+new_adv_20level=I was too hungry...
+new_adv_21level=Blow the candles out
+new_adv_22level=quickbaba
+new_adv_23level=Appetizer
+new_adv_24level=Delicious words
+new_adv_26level=Unsettling
+new_adv_27level=Shelter
+new_adv_28level=Supply route
+new_adv_29level=morefear
+new_adv_30level=Magician's trick
+new_adv_31level=Baba twins
+new_adv_32level=Warehouse
+new_adv_33level=Mimicry
+new_adv_35level=Safety box
+new_adv_36level=Antique halls
+new_adv_37level=Haunted spa
+new_adv_38level=Nudge
+new_adv_39level=Pay attention
+new_adv_40level=No duplicates
+new_adv_41level=New adventures!
+new_adv_42level=Baba's home
+new_adv_43level=Last snack
+new_adv_44level=Baba needs friends
+new_adv_45level=Exactly as it says
+new_adv_46level=Gravity chamber
+new_adv_47level=Skull pile
+new_adv_48level=The end
+new_adv_49level=Safety system
+new_adv_50level=Set the stage
+new_adv_51level=Skygate
+new_adv_52level=Shiny ladder
+new_adv_53level=Deep doors
+new_adv_54level=Cellar access
+new_adv_55level=Under the floor
+new_adv_56level=Jump up, Babastar
+new_adv_57level=Main course
+new_adv_58level=Starter course
+new_adv_59level=Dessert
+new_adv_60level=Bunker
+new_adv_62level=Sideways fireplace
+new_adv_63level=Spaceport
+new_adv_64level=testing
+new_adv_65level=Mixed identity
+new_adv_66level=Sun Boulevard
+new_adv_67level=Treacherous wetlands
+new_adv_69level=Lastest snack
+new_adv_70level=Safety vest
+new_adv_71level=Time travel
+new_adv_72level=Briar chute
+new_adv_73level=Worm study
+new_adv_74level=Firewall
+new_adv_76level=Abduction!
+new_adv_77level=Dream secret
+new_adv_78level=idlepush
+new_adv_79level=Matrix
+new_adv_80level=Harmful presence
+new_adv_81level=Destructive presence
+new_adv_82level=Hidden in the thicket
+new_adv_83level=Combination lock
+new_adv_84level=Under lock and key
+new_adv_85level=Tropical weather
+new_adv_86level=OOOOOOOO
+new_adv_87level=ABAB CD EFG
+new_adv_89level=(BABA)
+new_adv_90level=Forage
+new_adv_92level=BABABABABA
+new_adv_94level=Milky Way
+new_adv_95level=Waiting for you
+new_adv_96level=Hidden in the thicket 2
+new_adv_97level=Harvest party
+new_adv_98level=Cave of Mirages
+new_adv_99level=Treasure Chest
+new_adv_a22level=Guarding triplet
+new_adv_a30level=Psychokinesis
+new_adv_x110level=Compact
+new_adv_y4level=Silly trick
+new_adv_y9level=Spotlights
+new_adv_93level=Untouchable
+new_adv_ph7level=Happy dance
+new_adv_ph8level=Experiment
+new_adv_ph17level=Gone fishing
+
+new_adv_208level=Enter the infinity
+new_adv_201level=Flight academy
+new_adv_202level=Flight academy 2
+new_adv_207level=Flight academy 3
+new_adv_203level=Cursed spa
+new_adv_204level=Advanced linguistics 1
+new_adv_205level=Advanced linguistics 2
+new_adv_206level=Advanced linguistics 3
+new_adv_192level=Boom!
+new_adv_193level=Demolitionwork
+new_adv_197level=Cornered victory
+new_adv_194level=Clear vision
+new_adv_195level=Seeing double
+new_adv_199level=Seeing trouble
+new_adv_196level=Lesson in adjacency
+new_adv_198level=Where's the box?
+new_adv_200level=Cloud apartment
+
+museum_89level=Got all this stuff here
+
+new_adv_190level=Baba Is Empty
+new_adv_209level=Monstrous walls
+new_adv_210level=Steep hill
+new_adv_211level=Words eroded by time
+
+new_adv_25level=I'm invincible!
+
+world_new_adv_m=New Adventures
+new_adv_m_100level=Looking for hollow spots
+new_adv_m_101level=Maintenance tunnels
+new_adv_m_102level=Smelting facility
+new_adv_m_103level=Hidden blueprints
+new_adv_m_104level=Fertile ground
+new_adv_m_105level=Electricity
+new_adv_m_106level=Snowy morning
+new_adv_m_107level=Rapid growth
+new_adv_m_108level=Alpine meadow
+new_adv_m_109level=Log cabin
+new_adv_m_110level=My home is on fire
+new_adv_m_111level=Test chamber
+new_adv_m_112level=Former glory
+new_adv_m_113level=Too late
+new_adv_m_114level=Bare
+new_adv_m_115level=Lockpicking
+new_adv_m_116level=Returning home
+new_adv_m_117level=Solar Energy
+new_adv_m_118level=Standby
+new_adv_m_119level=Sturdy flowers
+new_adv_m_120level=Treehouse
+new_adv_m_121level=Planet Baba
+new_adv_m_122level=Written in stone
+new_adv_m_123level=Antigravity
+new_adv_m_124level=Seasick
+new_adv_m_125level=House house
+new_adv_m_127level=Dangerous feeling
+new_adv_m_128level=Feeling dangerous
+new_adv_m_129level=Once more with feeling!
+new_adv_m_130level=Who is it?
+new_adv_m_131level=Pushing Uphill
+new_adv_m_132level=How time flies...!
+new_adv_m_133level=Sneaking about
+new_adv_m_134level=Seasons
+new_adv_m_135level=Parakeet bouncer
+new_adv_m_136level=Familiar Land
+new_adv_m_136level_mapid=Familiar
+new_adv_m_137level=Starry Lands
+new_adv_m_137level_mapid=Star
+new_adv_m_138level=Land of Delicacies
+new_adv_m_138level_mapid=Delicacy
+new_adv_m_139level=Land of Vehicles
+new_adv_m_139level_mapid=Vehicle
+new_adv_m_140level=Land Land Land
+new_adv_m_140level_mapid=Glitch
+new_adv_m_141level=Land of Oddities
+new_adv_m_141level_mapid=Oddity
+new_adv_m_142level=What's that?
+new_adv_m_143level=Where am I going?
+new_adv_m_144level=Why all this?
+new_adv_m_145level=Midnight meeting
+new_adv_m_146level=Private garden
+new_adv_m_147level=Secret clearing
+new_adv_m_148level=There and back
+new_adv_m_149level=Whoops Deluxe
+new_adv_m_150level=Tapestries
+new_adv_m_151level=Presenting credentials
+new_adv_m_152level=Reverse fate
+new_adv_m_153level=Baba the Conductor!
+new_adv_m_154level=Buzz
+new_adv_m_155level=Toy Factory
+new_adv_m_156level=Ventilation Shaft
+new_adv_m_157level=AAAA
+new_adv_m_158level=Hedge maze
+new_adv_m_160level=Baba Invaders
+new_adv_m_161level=Baba Hour
+new_adv_m_162level=Babarcade
+new_adv_m_162level_mapid=Arcade
+new_adv_m_164level=A simple maze
+new_adv_m_165level=Another simple maze
+new_adv_m_166level=Darkish Dungeon
+new_adv_m_167level=Snakeke
+new_adv_m_168level=Teamwork is a must
+new_adv_m_168level_subtitle=Move down to switch unit
+new_adv_m_170level=Colourful cavern old
+new_adv_m_171level=Musical interlude
+new_adv_m_172level=New friends!
+new_adv_m_173level=Private club
+new_adv_m_174level=New members
+new_adv_m_175level=Exclusive membership
+new_adv_m_176level=Clockwork ghosts
+new_adv_m_177level=Clockwords
+new_adv_m_178level=Clockworld
+new_adv_m_179level=Colourful cavern
+new_adv_m_17level=Tangled passage
+new_adv_m_180level=Conclusion
+new_adv_m_181level=Hangar
+new_adv_m_182level=Outreach
+new_adv_m_183level=Garden? What garden?
+new_adv_m_18level=Moonrise, sunset
+new_adv_m_19level=What does baba eat?
+new_adv_m_1blevel=OOOOO OO O OOO
+new_adv_m_20level=I was too hungry...
+new_adv_m_21level=Blow the candles out
+new_adv_m_22level=quickbaba
+new_adv_m_23level=Appetizer
+new_adv_m_24level=Delicious words
+new_adv_m_26level=Unsettling
+new_adv_m_27level=Shelter
+new_adv_m_28level=Supply route
+new_adv_m_29level=morefear
+new_adv_m_30level=Magician's trick
+new_adv_m_31level=Baba twins
+new_adv_m_32level=Warehouse
+new_adv_m_33level=Mimicry
+new_adv_m_35level=Safety box
+new_adv_m_36level=Antique halls
+new_adv_m_37level=Haunted spa
+new_adv_m_38level=Nudge
+new_adv_m_39level=Pay attention
+new_adv_m_40level=No duplicates
+new_adv_m_41level=New adventures!
+new_adv_m_42level=Baba's home
+new_adv_m_43level=Last snack
+new_adv_m_44level=Baba needs friends
+new_adv_m_45level=Exactly as it says
+new_adv_m_46level=Gravity chamber
+new_adv_m_47level=Skull pile
+new_adv_m_48level=The end
+new_adv_m_49level=Safety system
+new_adv_m_50level=Set the stage
+new_adv_m_51level=Skygate
+new_adv_m_52level=Shiny ladder
+new_adv_m_53level=Deep doors
+new_adv_m_54level=Cellar access
+new_adv_m_55level=Under the floor
+new_adv_m_56level=Jump up, Babastar
+new_adv_m_57level=Main course
+new_adv_m_58level=Starter course
+new_adv_m_59level=Dessert
+new_adv_m_60level=Bunker
+new_adv_m_62level=Sideways fireplace
+new_adv_m_63level=Spaceport
+new_adv_m_64level=testing
+new_adv_m_65level=Mixed identity
+new_adv_m_66level=Sun Boulevard
+new_adv_m_67level=Treacherous wetlands
+new_adv_m_69level=Lastest snack
+new_adv_m_70level=Safety vest
+new_adv_m_71level=Time travel
+new_adv_m_72level=Briar chute
+new_adv_m_73level=Worm study
+new_adv_m_74level=Firewall
+new_adv_m_76level=Abduction!
+new_adv_m_77level=Dream secret
+new_adv_m_78level=idlepush
+new_adv_m_79level=Matrix
+new_adv_m_80level=Harmful presence
+new_adv_m_81level=Destructive presence
+new_adv_m_82level=Hidden in the thicket
+new_adv_m_83level=Combination lock
+new_adv_m_84level=Under lock and key
+new_adv_m_85level=Tropical weather
+new_adv_m_86level=OOOOOOOO
+new_adv_m_87level=ABAB CD EFG
+new_adv_m_89level=(BABA)
+new_adv_m_90level=Forage
+new_adv_m_92level=BABABABABA
+new_adv_m_94level=Milky Way
+new_adv_m_95level=Waiting for you
+new_adv_m_96level=Hidden in the thicket 2
+new_adv_m_97level=Harvest party
+new_adv_m_98level=Cave of Mirages
+new_adv_m_99level=Treasure Chest
+new_adv_m_a22level=Guarding triplet
+new_adv_m_a30level=Psychokinesis
+new_adv_m_x110level=Compact
+new_adv_m_y4level=Silly trick
+new_adv_m_y9level=Spotlights
+new_adv_m_93level=Untouchable
+new_adv_m_ph7level=Happy dance
+new_adv_m_ph8level=Experiment
+new_adv_m_ph17level=Gone fishing
+new_adv_m_208level=Enter the infinity
+new_adv_m_201level=Flight academy
+new_adv_m_202level=Flight academy 2
+new_adv_m_207level=Flight academy 3
+new_adv_m_203level=Cursed spa
+new_adv_m_204level=Advanced linguistics 1
+new_adv_m_205level=Advanced linguistics 2
+new_adv_m_206level=Advanced linguistics 3
+new_adv_m_192level=Boom!
+new_adv_m_193level=Demolitionwork
+new_adv_m_197level=Cornered victory
+new_adv_m_194level=Clear vision
+new_adv_m_195level=Seeing double
+new_adv_m_199level=Seeing trouble
+new_adv_m_196level=Lesson in adjacency
+new_adv_m_198level=Where's the box?
+new_adv_m_200level=Cloud apartment
+new_adv_m_190level=Baba Is Empty
+new_adv_m_209level=Monstrous walls
+new_adv_m_210level=Steep hill
+new_adv_m_211level=Words eroded by time
+new_adv_m_25level=I'm invincible!
