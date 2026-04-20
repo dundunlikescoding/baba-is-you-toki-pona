@@ -1,4 +1,4 @@
-# Baba is You, translated to Toki Pona <br> musi "soweli Papa li sina / Papa I Ju" lon toki pona
+# Baba is You, translated into Toki Pona <br> musi "soweli Papa li sina / Papa I Ju" lon toki pona
 
 ## License
 
