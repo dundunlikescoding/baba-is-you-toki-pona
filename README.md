@@ -2,15 +2,15 @@
 
 ## License
 
-Licensed under CC-BY 4.0 International. <br>
-lipu ni li lon lipu lawa CC-BY 4.0 International.
+*lang_tok.txt* and this README are licensed under CC-BY 4.0 International. <br>
+lipu *lang_tok.txt* lipu README ni li lon lipu lawa CC-BY 4.0 International.
 
 ## English
 
 ### Progress
 
 **Approximately 12.5% translated**, major texts are done.
-* Main menu: 100%
+* Main menu: ~100%
 * Editor: ~50%
 * Editor tutorials: 0%
 * Levels: Beginning work
@@ -24,7 +24,7 @@ lipu ni li lon lipu lawa CC-BY 4.0 International.
 Translations are in the *lang_tok.txt* file.
 *lang_en.txt* is given for reference.
 
-Go to "C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Languages" (or equivalent) on your computer and place the *lang_tok.txt* translation file there. 
+Go to "C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Languages" (on Windows) on your computer and place the *lang_tok.txt* translation file there. 
 When you open up Baba Is You again, a "Toki Pona" option should be visible in the language selection menu.
 Congrats! You now can play Baba Is You in Toki Pona.
 
@@ -33,7 +33,16 @@ Congrats! You now can play Baba Is You in Toki Pona.
 You can contribute by translating more. 
 It is **recommended** that you have a copy of Baba Is You, *but* you can still work on this project, even without it.
 
+If there is an error or inconsistency in the translation, make an issue. If you want to add new translations, make a pull request.
+
+It is *preferred* that you only translate a little at a time, to let others translate too.
 
 ## toki pona
 
-*mi wile pali e ni, la o awen.*
+a! toki! pali ni li pali li ni: musi "soweli Papa li sina" li ante toki tawa toki ni. 
+
+sina *ken* kepeken ni lon tenpo ni, taso ni li jo e nimi lon toki Inli.
+
+ilo sona Winto sina la, sina wile pana e *lang_tok.txt* tawa "C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Languages". ni la, sina ken musi e musi lon toki pona.
+
+sina ken toki Inli la, sina ken pana e ante toki tawa lipu ni, anu toki e ante toki ike.
