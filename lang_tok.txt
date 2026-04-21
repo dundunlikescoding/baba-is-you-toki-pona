@@ -19,7 +19,7 @@ ingame_toocomplex=ni li ike mute!
 
 resume=o awen e musi
 restart=o open sin
-return=o tawa tan
+return=o tawa monsi
 
 pause_returnmap=o tawa lipu alasa
 pause_returnmain=o tawa lipu open
