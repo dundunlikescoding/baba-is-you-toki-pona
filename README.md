@@ -3,7 +3,7 @@
 ## License
 
 *lang_tok.txt* and this README are licensed under CC-BY 4.0 International. <br>
-lipu *lang_tok.txt* lipu README ni li lon lipu lawa CC-BY 4.0 International.
+lipu *lang_tok.txt* en lipu README ni li lon lipu lawa CC-BY 4.0 International.
 
 ## English
 
