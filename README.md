@@ -43,6 +43,6 @@ a! toki! pali ni li pali li ni: musi "soweli Papa li sina" li ante toki tawa tok
 
 sina *ken* kepeken ni lon tenpo ni, taso ni li jo e nimi lon toki Inli.
 
-ilo sona Winto sina la, sina wile pana e *lang_tok.txt* tawa "C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Languages". ni la, sina ken musi e musi lon toki pona.
+ilo sona Winto sina la, sina wile pana e lipu *lang_tok.txt* tawa lipu "C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Languages". ni la, sina ken musi e musi lon toki pona.
 
 sina ken toki Inli la, sina ken pana e ante toki tawa lipu ni, anu toki e ante toki ike.
