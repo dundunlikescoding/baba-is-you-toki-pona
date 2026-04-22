@@ -37,6 +37,10 @@ If there is an error or inconsistency in the translation, make an issue. If you 
 
 It is *preferred* that you only translate a little at a time, to let others translate too.
 
+### Warnings
+
+This translation in not complete. It use some nimi ku lili for shortening purposes, as there are space constraints.
+
 ## toki pona
 
 a! toki! pali ni li pali li ni: musi "soweli Papa li sina" li ante toki tawa toki ni. 
