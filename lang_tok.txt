@@ -466,9 +466,9 @@ editor_theme_load_confirm_hint=Note! This will erase everything in the level!
 editor_theme_load_confirm_newlevel=Do you want to load a theme for this level?
 editor_theme_themeload=Select the theme you want to load:
 editor_theme_save=o awen e kule ni
-editor_theme_save_confirm=kule ni li lon. sina wile ala wile awen sin e ona?
+editor_theme_save_confirm=kule ni li lon. sina wile ala wile awen e ona sin?
 editor_theme_delete=o weka e kule ni
-editor_theme_delete_confirm=sina wile kiwen ala wile weka e kule ni?
+editor_theme_delete_confirm=sina wile ala wile weka e kule ni?
 editor_theme_themedelete=Select the theme you want to delete:
 editor_theme_none=There are no themes available
 editor_theme_done=Start editing
@@ -497,13 +497,13 @@ editor_levelmenu_autodelay=sike "Level Is Auto" kepeken tenpo ni:
 editor_levelmenu_mapsetup=lipu ante pi lipu alasa
 
 editor_music_select=Select the music you want to use:
-editor_music_none=kalama musi li lon ala
+editor_music_none=mi ken ala alasa e kalama musi
 
 editor_particles_select=Select the background effect you want to use:
 editor_particles_none=No background effects found
 
 editor_palette_select=Select the palette you want to use:
-editor_palette_none=kulupu kule li lon ala.
+editor_palette_none=mi ken ala alasa e kule
 
 editor_levelsize_width=Adjust level width:
 editor_levelsize_height=Adjust level height:
@@ -914,8 +914,8 @@ hotkeys_editor_category_misc=Misc
 248level=tomo esun
 250level=Tense atmosphere
 251level=tomo pi tawa sijelo
-252level=P.A.
-253level=A.P.
+252level=BA
+253level=AB
 255level=Lunar gallery
 257level=poka
 25level=Floodgates
