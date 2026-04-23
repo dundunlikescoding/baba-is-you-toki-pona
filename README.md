@@ -9,11 +9,15 @@ lipu *lang_tok.txt* en lipu README ni li lon lipu lawa CC-BY 4.0 International.
 
 ### Progress
 
-**Approximately 12.5% translated**, major texts are done.
+**Approximately 12.5%\* translated**, major texts are done.
 * Main menu: ~100%
 * Editor: ~50%
 * Editor tutorials: 0%
 * Levels: Beginning work
+
+(mostly) Exact numbers: 1902 lines, 115 translated, 1787 left. 6% complete. Updated 23 Apr 2026.
+
+<!-- Note: Subtract 4 from total count, subtract 1 from translated count. -->
   
 ----
 
@@ -37,9 +41,11 @@ If there is an error or inconsistency in the translation, make an issue. If you 
 
 It is *preferred* that you only translate a little at a time, to let others translate too.
 
+I know we have 1787-ish lines left to translate, but those lines are much more interesting than the lines already done. 
+
 ### Warnings
 
-This translation in not complete. It use some nimi ku lili for shortening purposes, as there are space constraints.
+This translation is not complete. It use some nimi ku lili for shortening purposes, as there are space constraints.
 
 ## toki pona
 
